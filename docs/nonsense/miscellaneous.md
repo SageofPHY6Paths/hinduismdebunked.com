@@ -5,7 +5,7 @@ parent: Nonsense
 nav_order: 5
 permalink: /immorality/miscellaneous/
 ---
-# Logic
+# Miscellaneous
 {: .no_toc }
 <details open markdown="block">
   <summary>
