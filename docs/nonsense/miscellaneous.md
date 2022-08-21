@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Logic
-parent: Miscellaneous
+title: Miscellaneous
+parent: Nonsense
 nav_order: 5
 permalink: /immorality/miscellaneous/
 ---
