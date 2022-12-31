@@ -11,7 +11,7 @@ permalink: /
 
 {: .fs-6 .fw-300 }
 
-[Start reading](/immorality/caste-system){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <a href="https://github.com/SageofPHY6Paths/hinduismdebunked.com" target="_blank">View it on GitHub</a>{: .btn .fs-5 .mb-4 .mb-md-0 } [Nūtana Dhārma](https://nd.hinduismdebunked.com/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Start reading](/immorality/caste-system){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <a href="https://github.com/SageofPHY6Paths/hinduismdebunked.com" target="_blank">View it on GitHub</a>{: .btn .fs-5 .mb-4 .mb-md-0 } <a href="https://nd.hinduismdebunked.com/" target="_blank">Nūtana Dhārma</a>{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 This website contains immoral and nonsensical verses from different Hindu scriptures.
 
