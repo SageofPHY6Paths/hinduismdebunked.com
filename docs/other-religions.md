@@ -5,7 +5,7 @@ comments: true
 nav_order: 9
 permalink: /other-religions/
 ---
-You can find links to other criticisms of religions on this page. This site is especially influenced by <a href="https://skepticsannotatedbible.com" target="_blank">Skeptic's Annotated Bible</a> and <a href="https://wikiislam.net/wiki/Main_Page" target="_blank">WikiIslam.net</a>.
+You can find links to other criticisms of religions on this page. This site is especially influenced by <a href="https://skepticsannotatedbible.com" target="_blank">Skeptic's Annotated Bible</a>, <a href="https://wikiislam.net/wiki/Main_Page" target="_blank">WikiIslam.net</a> and <a href="https://atheism-vs-islam.com/" target="_blank">atheism-vs-islam.com</a>.
 
 1. TOC
 {:toc}
@@ -44,9 +44,10 @@ You can find links to other criticisms of religions on this page. This site is e
 
 ## Other
 - [Skeptic's Annotated Bible](https://skepticsannotatedbible.com) and [Quran](https://skepticsannotatedbible.com/quran/)
+- [WikiIslam.net](https://wikiislam.net/wiki/Main_Page)
+- [atheism-vs-islam.com](https://atheism-vs-islam.com/)
 - [godisimaginary.com](https://godisimaginary.com)
 - [Ironchariots wiki](https://web.archive.org/web/20180420050141/http://wiki.ironchariots.org/index.php?title=Main_Page)
 - [Atheism United](https://www.atheismunited.com/wiki/Main_Page)
 - [r/atheism/wiki/faq](https://www.reddit.com/r/atheism/wiki/faq)
-- [WikiIslam.net](https://wikiislam.net/wiki/Main_Page)
 - [thereligionofpeace.com](https://www.thereligionofpeace.com)
