@@ -11,7 +11,7 @@ permalink: /immorality/rape-and-sexual-abuse/
 
 **Worst verses**:
 
-Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by Vishnu, [SP V.iii.136.1-16](#sp-viii1361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
+Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by Vishnu, [SP V.iii.136.1-16](#sp-viii1361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.20.36](#sb-92036)+[MP 49.17-28](#mp-4917-28) by Brihaspati, [BVP Krishna Janma Kanda 80.11-19](#bvp-krishna-janma-kanda-8011-19)+[SB 9.14.4](#sb-9144) by Soma (Moon), [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
 
 <details open markdown="block">
   <summary>
@@ -46,6 +46,35 @@ Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakr
 
 ## Puranas
 
+### Shiva Purana
+
+Source: <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> or <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english" target="_blank">wisdomlib.org</a>
+
+##### SP 2.5 23.38-46
+{: .no_toc }
+
+<a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226164.html" target="_blank">wisdomlib.org</a>
+
+>38. On seeing her husband, Vṛndā too was delighted. She forgot her sorrow. She considered everything a dream.
+>
+>39. Delighted in the heart and with all the dormant passions kindled up, she sported with him for many days in the middle of that forest.
+>
+>40. Once **at the end of the sexual intercourse she realised that it was Viṣṇu**. Vṛndā rebuked him **angrily** and spoke thus.
+Vṛndā said:—
+>
+>41. Fie on this misdeed of Viṣṇu in outraging the modesty of another man’s wife. I have now realised you as the wielder of illusion, appearing in the guise of an ascetic.
+Sanatkumāra said:—
+>
+>42. O Vyāsa, saying thus in great anger she showed her brilliant powers as a staunch chaste lady by cursing Viṣṇu.
+>
+>43. “O base foe of the Daityas, defiler of other people’s virtue, O wicked one, take this curse from me, greater in force than all persons.
+>
+>44. The two persons whom you made to appear in front of me shall become Rākṣasas[1] and abduct your wife.
+>
+>45. You will be distressed on account of separation from your wife roaming about with Śeṣa ‘lord of snakes’[2] who posed as your disciple here. You will seek the help of monkeys[3] in the forest.
+>
+>46. After saying this, **Vṛndā entered fire** though prevented by Viṣṇu who was fascinated by her charms. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226164.html" target="_blank">wisdomlib.org</a>
+
 ### Bhagavata Purana or Srimad Bhagavatam
 
 ##### SB 9.14.4
@@ -58,6 +87,17 @@ Translations:
 > <a href="https://www.srimadbhagavatam.org/canto9/chapter14.html#Text_4" target="_blank">srimadbhagavatam.org</a>: After he had conquered the three worlds, he performed a Râjasûya sacrifice and **kidnapped in his arrogance with force Târâ, the wife of Brihaspati**.
 
 ><a href="https://vedabase.io/en/library/sb/9/14/4/" target="_blank">As It Is</a>: After conquering the three worlds [the upper, middle and lower planetary systems], Soma, the moon-god, performed a great sacrifice known as the Rājasūya-yajña. Because he was very much puffed up, he **forcibly kidnapped Bṛhaspati’s wife**, whose name was Tārā.
+
+##### SB 9.20.36
+{: .no_toc }
+>अन्तर्वत्‍न्यां भ्रातृपत्‍न्यां मैथुनाय बृहस्पति: ।<br>
+प्रवृत्तो वारितो गर्भं शप्‍त्वा वीर्यमुपासृजत् ॥ ३६ ॥
+
+Translations:
+
+> <a href="https://www.srimadbhagavatam.org/canto9/chapter20.html#Text_36" target="_blank">srimadbhagavatam.org</a>: Brihaspati [the scholar and priest of the demigods who was his father, in the past] felt attracted to his brother's pregnant wife and wanted to make love to her. **But when the son in the womb forbade him to engage that way, he cursed him and discharged his semen anyway**.
+
+><a href="https://vedabase.io/en/library/sb/9/20/36/" target="_blank">As It Is</a>: When the demigod named Bṛhaspati was attracted by his brother’s wife, Mamatā, who at that time was pregnant, he desired to have sexual relations with her. The son within her womb forbade this, but **Bṛhaspati cursed him and forcibly discharged semen into the womb of Mamatā**.
 
 ##### SB 9.24.33 to 35
 {: .no_toc }
@@ -141,34 +181,25 @@ Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kan
 >
 >The all knowledgeable sage came to know about everything and immediately returned to his abode. Gatuama the best of the sages spotted Indra moving out of his hermitage and also found **Ahalya having the developed pelvic region and the breasts, lying unrobed there.** The sage then pronounced a curse on Indra, **"You will have yonis all through your body"**. In anger he pronounced a **curse also on the terrified and crying Ahalya**, 'Tn the thick forest you will be turned into a stone". After getting immensely ashamed Indra went to his abode but the terrified Ahalya with her mind filled with grief spoke sweet words to Gautama. <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 433)
 
-### Shiva Purana
-
-Source: <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> or <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english" target="_blank">wisdomlib.org</a>
-
-##### SP 2.5 23.38-46
+##### BVP Krishna Janma Kanda 80.11-19
 {: .no_toc }
+<a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 516)
 
-<a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226164.html" target="_blank">wisdomlib.org</a>
+>Tara said- O moon you leave me, O blemish for the gods, leave me alone. I happen to be the **wife of your teacher and also the daughter of a Brahmana**, I have always been chaste and virtuous. One has to earn the sin of hundred Brahmahaty&s by cohabiting with the wife of a teacher. If the wife of a teacher happens to be the daughter of a Brahmana and a chaste one, cohabiting with her earns the sins of a thousand Brahmahatyds.
+>
+>Therefore, lord of gods, you be patient, look **I happen to be your mother and you happen to be my son**. In case you indulge in such a type of deplorable action, you will earn disgrace and on hearing this Brhaspati, the teacher of the gods would reduce you to ashes. You happen to be the **pupil of my husband and are dear to him like his own son**. Therefore, sinful one, don't indulge in this. You leave the mother like me free and protect the dharma and in case you would touch me again I shall shower on you the sin of the killing of a woman. The moon a on the other hand, did not listen to the words of TSra and got **ready to cohabit with her**. At this Tara who was free from passion and was quite chaste, became enraged and pronounced a curse on him, "You would be **eclipsed by Rahu**, covered with the clouds and would be quite sinful to look at. You would be filled with blemish and suffer from the disease of consumption. There is no doubt about it.".
+>
+>Thus pronouncing a curse on the moon she also pronounced a curse on the god of love, "You would be reduced to ashes by an illustrious person. O lord of Vraja, **thereafter the moon caught hold of Tara and enjoyed her company who was crying and sobbing**. He took her in his lap and moved from that place. <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 516)
 
->38. On seeing her husband, Vṛndā too was delighted. She forgot her sorrow. She considered everything a dream.
->
->39. Delighted in the heart and with all the dormant passions kindled up, she sported with him for many days in the middle of that forest.
->
->40. Once **at the end of the sexual intercourse she realised that it was Viṣṇu**. Vṛndā rebuked him **angrily** and spoke thus.
-Vṛndā said:—
->
->41. Fie on this misdeed of Viṣṇu in outraging the modesty of another man’s wife. I have now realised you as the wielder of illusion, appearing in the guise of an ascetic.
-Sanatkumāra said:—
->
->42. O Vyāsa, saying thus in great anger she showed her brilliant powers as a staunch chaste lady by cursing Viṣṇu.
->
->43. “O base foe of the Daityas, defiler of other people’s virtue, O wicked one, take this curse from me, greater in force than all persons.
->
->44. The two persons whom you made to appear in front of me shall become Rākṣasas[1] and abduct your wife.
->
->45. You will be distressed on account of separation from your wife roaming about with Śeṣa ‘lord of snakes’[2] who posed as your disciple here. You will seek the help of monkeys[3] in the forest.
->
->46. After saying this, **Vṛndā entered fire** though prevented by Viṣṇu who was fascinated by her charms. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226164.html" target="_blank">wisdomlib.org</a>
+### Matsya Puranam
+
+##### MP 49.17-28
+{: .no_toc }
+<a href="https://archive.org/details/in.ernet.dli.2015.45856/" target="_blank">PDF</a> (Page - 168)
+
+Suta said : — Bfihaspati, whilst slaying on Earth, one day saw the wife of his brother, Wija, who was big Avith child, and addressed her thus: — “ Dress thj'sclf well and let us enjoy.” She, being thus addressed, replied to Brihaspati thus : — ” Tlie embryo in my womb is mature and is already reciting the Vedas, Thy seed will also not be fruitless and thy proposal is sinful.” Hearing which, Bfihaspati said : — ” I need not be taught morality by thee, 0 sweet one.” After saying that, he carried out his desire by force ; when on the verge of his final enjoyment, the child from her womb cried out to Bfihaspati : — ” I have entered the womb first, 0 Bfihaspati, thy seed will also not go in vain. There is no room for a second body in this womb.” Bfihaspati being thus addressed by the child in the womb, replied in anger : — “ Because on such an occasion, dear to every creature, thou preventest me from enjoyment, thou shouldst see lasting darkness [Dirgbatamas].” -17-28.
+
+Afterwards, Bfihaspati cast his seed on the floor which at once became a child ; seeing whom, MamatA said to Bfihaspati, “lam going home, you should support [Bbara] this child [born of us two (dvfija)], 0 Bfihaspati.” — 24-25. <a href="https://archive.org/details/in.ernet.dli.2015.45856/" target="_blank">PDF</a> (Page - 168)
 
 ## Manusmriti
 
