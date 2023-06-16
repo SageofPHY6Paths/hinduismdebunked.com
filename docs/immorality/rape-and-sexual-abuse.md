@@ -77,6 +77,41 @@ Sanatkumāra said:—
 
 ### Bhagavata Purana or Srimad Bhagavatam
 
+##### SB 8.12.26-33
+{: .no_toc }
+>सोऽयजद् राजसूयेन विजित्य भुवनत्रयम् ।<br>
+पत्नीं बृहस्पतेर्दर्पात् तारां नामाहरद् बलात् ॥ ४ ॥
+
+Translations:
+
+> <a href="https://www.srimadbhagavatam.org/canto8/chapter12.html#Text_26" target="_blank">srimadbhagavatam.org</a>: The completley naked woman saw him coming and most embarrassed with a smile ran here and there to hide behind the trees.
+>
+>Lord S'iva, Bhava, distracted by his senses, fell victim to lust like he was a male elephant going for a she-elephant.
+>
+>Speeding after Her, he caught Her by the braid of Her hair and pulled Her close against Her will in order to embrace Her.
+>
+>She, the she-elephant, with Her hair scattered being captured by him, the bull that was the Lord's devotee, squirming like a snake managed to free Herself, oh King. Having escaped from the tight grip of the Lord of the demigods, She ran quickly away, with Her heavy hips so expressively exhibiting the illusory potency of the Lord.
+>
+>Like being haunted by the devil Rudra in the grip of lust engaged in the pursuit of Him whose acts so wondrously were taking place in front of him.
+>
+>Chasing Her like a mad bull going for a female, the semen was discharged of him who never spills his semen in vain.
+>
+>Each and every place where his semen fell on the earth, oh great ruler, those places became mines for silver and gold.
+
+><a href="https://vedabase.io/en/library/sb/8/12/26/" target="_blank">As It Is</a>: The beautiful woman was already naked, and when She saw Lord Śiva coming toward Her, She became extremely bashful. Thus She kept smiling, but She hid Herself among the trees and did not stand in one place.
+>
+>His senses being agitated, Lord Śiva, victimized by lusty desires, began to follow Her, **just as a lusty elephant follows a she-elephant**.
+>
+>After following Her with great speed, **Lord Śiva caught Her by the braid of Her hair and dragged Her near him. Although She was unwilling**, he embraced Her with his arms.
+>
+>Being embraced by Lord Śiva like a female elephant embraced by a male, the woman, whose hair was scattered, swirled like a snake. O King, this woman, who had large, high hips, was a woman of yoga-māyā presented by the Supreme Personality of Godhead. **She released Herself somehow or other from the fond embrace of Lord Śiva’s arms and ran away.**
+>
+>As if harassed by an enemy in the form of lusty desires, Lord Śiva **followed the path of Lord Viṣṇu, who acts very wonderfully and who had taken the form of Mohinī**.
+>
+>Just as a **maddened bull elephant** follows a female elephant who is able to conceive pregnancy, **Lord Śiva followed the beautiful woman and discharged semen, even though his discharge of semen never goes in vain.**
+>
+>O King, **wheresoever on the surface of the globe fell the semen of the great personality of Lord Śiva, mines of gold and silver later appeared.**
+
 ##### SB 9.14.4
 {: .no_toc }
 >सोऽयजद् राजसूयेन विजित्य भुवनत्रयम् ।<br>
