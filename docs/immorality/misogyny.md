@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Sexism
+title: Misogyny
 parent: Immorality
 comments: true
 nav_order: 2
-permalink: /immorality/sexism/
+permalink: /immorality/misogyny/
 ---
-Just like every other religion, Hinduism is also created by men who considered women as mere objects that they own. This page contains misogyny related verses.
+# Misogyny
+
+Just like every other religion, Hinduism is also created by men who considered women as mere objects that they own.
 
 **Worst verses**: [PP 52.19](#pp-5219), [BU 6.4.7](#bu-647), [SP Mahatmyam 3.10](#sp-mahatmyam-310), [SP Rudra Samhita 54.25](#sp-rudra-samhita-5425), [MP 22.32](#mp-2232)
 
@@ -32,6 +34,21 @@ Just like every other religion, Hinduism is also created by men who considered w
 ## Bhagavad Gita
 
 ## Ramayana
+
+## Ramayana
+
+### Ramayana Ayodhya Kanda sarga 52 shloka 102
+{: .no_toc }
+> तौ तत्र हत्वा चतुरः महा मृगान् \|<br>
+वराहम् ऋश्यम् पृषतम् महा रुरुम् \|<br>
+आदाय मेध्यम् त्वरितम् बुभुक्षितौ|<br>
+वासाय काले ययतुर् वनः पतिम् \|\| २-५२-१०२
+
+><a href="https://sanskritdocuments.org/sites/valmikiramayan/ayodhya/sarga52/ayodhyasans52.htm#Verse102" target="_blank">sanskritdocuments.org</a>: Having **hunted** there four deer, namely Varaaha, Rishya, Prisata; and Mahaaruru (the four principal species of deer) and taking quickly the portions that were pure, being hungry as they were, Rama and Lakshmana reached a tree to take rest in the evening.
+
+><a href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=52" target="_blank">IITK</a>: Famished, they (Rama and Lakshmana) **killed** a boar, a rishya (whitefooted male antelope), a spotted deer and a great deer with black stripes. They partook the meat and reached a tree by evening where they rested for the night.
+
+**Comment**: *Why is he killing animals? Don't say he needs it to survive. Bhagiratha a mere human being <a href="https://hinduismdebunked.com/nonsense/history/#mb-book-3-vana-parva-tirtha-yatra-parva-section-cviii" target="_blank">was able to live 1000 deva years without food</a> in Hindu fiction. Rama was a god in human avatar, he should be able to live for even more years. Even if for some reason he needs food why can't he do some plant agriculture?*
 
 ## Mahabharata
 
