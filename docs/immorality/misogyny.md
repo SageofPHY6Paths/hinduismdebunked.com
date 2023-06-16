@@ -148,15 +148,15 @@ good behaviour and disciplined life. <a href="https://www.wisdomlib.org/hinduism
 
 ##### PP 52.19
 {: .no_toc }
-> 0 Narada, it is true, (quite) true, that the vulva of women becomes moistened on seeing a well-dressed man, whether he is her brother or son. <a href="{{ site.baseurl }}/scripture/PadmaPurana.pdf" target="_blank">Source</a> (Page 319 of pdf)
+> 0 Narada, it is true, (quite) true, that the vulva of women becomes moistened on seeing a well-dressed man, whether he is her brother or son. <a href="https://www.wisdomlib.org/hinduism/book/the-padma-purana/d/doc364175.html" target="_blank">wisdomlib.org</a> or <a href="{{ site.baseurl }}/scripture/PadmaPurana.pdf" target="_blank">PDF</a> (Page 319 of pdf)
 
 ##### PP 52.23
 {: .no_toc }
-> Her father protects her in her childhood; her husband protects her in her youth ; her sons protect her in her old age. A woman never deserves freedom <a href="{{ site.baseurl }}/scripture/PadmaPurana.pdf" target="_blank">Source</a>
+> Her father protects her in her childhood; her husband protects her in her youth ; her sons protect her in her old age. A woman never deserves freedom. <a href="https://www.wisdomlib.org/hinduism/book/the-padma-purana/d/doc364175.html" target="_blank">wisdomlib.org</a> or <a href="{{ site.baseurl }}/scripture/PadmaPurana.pdf" target="_blank">PDF</a>
 
 ##### PP 52.25
 {: .no_toc }
-> As cooked food, in the absence of protection, is controlled by (i.e. eaten by) dogs and crows, in the same way, a young woman would become corrupt due to freedom. <a href="{{ site.baseurl }}/scripture/PadmaPurana.pdf" target="_blank">Source</a>
+> As cooked food, in the absence of protection, is controlled by (i.e. eaten by) dogs and crows, in the same way, a young woman would become corrupt due to freedom.  <a href="https://www.wisdomlib.org/hinduism/book/the-padma-purana/d/doc364175.html" target="_blank">wisdomlib.org</a> or <a href="{{ site.baseurl }}/scripture/PadmaPurana.pdf" target="_blank">PDF</a>
 
 ### Matsya Purana
 Source: <a href="{{ site.baseurl }}/scripture/MatsyaPurana1.pdf" target="_blank">Part 1 PDF</a> and <a href="{{ site.baseurl }}/scripture/MatsyaPurana2.pdf" target="_blank">Part 2 PDF</a>
