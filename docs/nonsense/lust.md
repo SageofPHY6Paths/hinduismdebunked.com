@@ -9,6 +9,8 @@ permalink: /nonsense/lust/
 # Lust
 {: .no_toc }
 
+**Worst verses**: [SP Kotirudra Samhita 12.45 to 53](#sp-kotirudra-samhita-1245-to-53)
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -62,6 +64,8 @@ Sūta said:—
 52. When the phallus was stabilised, there was welfare throughout the worlds. O brahmins, that phallus became famous in the three worlds.
 
 53. The phallus is known as “Hāṭeśa” as well as “Śivā-Śiva.” By worshipping it, all the people become happy in every respect. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
+
+**Comment**: *Why are these people so obsessed with phallus (erect penis)?*
 
 ##### SP Vidyesvara Samhita 21.39
 {: .no_toc }
