@@ -247,7 +247,7 @@ Source: <a href="{{ site.baseurl }}/scripture/MatsyaPurana1.pdf" target="_blank"
 
 Source: <a href="https://www.sacred-texts.com/hin/manu.htm" target="_blank">sacred-texts.com/hin/manu.htm</a> or <a href="{{ site.baseurl }}/scripture/Manusmriti.pdf" target="_blank">PDF</a>
 
-These day people discard this book as something that is not related to actual Hinduism. But for most of Hinduism's history this book was a part of Hinduism.
+These days people discard this book as something that is not related to actual Hinduism. But for most of Hinduism's history this book was a part of Hinduism.
 
 ### MS I.91
 {: .no_toc }
