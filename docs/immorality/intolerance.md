@@ -5,6 +5,11 @@ parent: Immorality
 comments: true
 nav_order: 5
 ---
+# Intolerance
+{: .no_toc }
+
+**Worst verses**: [SB 4.4.17](#sb-4417)
+
 <details open markdown="block">
   <summary>
     Table of contents
