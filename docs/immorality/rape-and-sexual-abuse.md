@@ -11,7 +11,7 @@ permalink: /immorality/rape-and-sexual-abuse/
 
 **Worst verses**:
 
-Rape: [SP V.iii.136.1-16](#sp-viii1361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
+Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by Vishnu, [SP V.iii.136.1-16](#sp-viii1361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
 
 <details open markdown="block">
   <summary>
@@ -108,6 +108,20 @@ Source: <a href="https://www.sacred-texts.com/hin/db/bk02ch06.htm" target="_blan
 
 ### Brahma Vaivarta Purana
 
+##### BVP Prakriti Kanda 21.18-24
+{: .no_toc }
+Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 306)
+
+>0 Narada, thereafter lord Visnu enjoyed the company of the damsel. TulasI felt more delighted than before and she ultimately came to know about the reality and said: “Who are you”?
+>
+>TulasI said—“Are you not the lord of illusion”? You tell me who you are? **You have deceitfully enjoyed my company and have defiled my chastity.** Therefore I shall pronounce a **curse on you**. O Rrahmana, getting afraid of the curse of TulasI, lord Visnii playfully took to an extremely charming form. The queen saw that the lord of all the lords was standing before her who had the complexion of a new cloud, had the eyes like the lotuses of the winter season, had a beautiful body containing crores of gods of love, adorned with all ornaments, wearing a smile on his face and clad in a yellow lower garment.
+>
+>Finding him there, lustful TulasI fainted with passion. On regaining consciousness she spoke.
+>
+>TulasI said—O lord, you are heartless, having no compassion. You are hard like a stone. **You have defiled my chastity deceitfully and have killed my husband.**
+>
+>O lord, therefore you are stone-hearted and devoid of compassion. You will therefore take the form of a stone on earth.
+
 ##### BVP Krishna Janma Kanda 61.43-44
 {: .no_toc }
 Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 433)
@@ -119,6 +133,31 @@ Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kan
 ### Shiva Purana
 
 Source: <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> or <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english" target="_blank">wisdomlib.org</a>
+
+##### SP 2.5 23.38-46
+{: .no_toc }
+
+<a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226164.html" target="_blank">wisdomlib.org</a>
+
+>38. On seeing her husband, Vṛndā too was delighted. She forgot her sorrow. She considered everything a dream.
+>
+>39. Delighted in the heart and with all the dormant passions kindled up, she sported with him for many days in the middle of that forest.
+>
+>40. Once **at the end of the sexual intercourse she realised that it was Viṣṇu**. Vṛndā rebuked him **angrily** and spoke thus.
+Vṛndā said:—
+>
+>41. Fie on this misdeed of Viṣṇu in outraging the modesty of another man’s wife. I have now realised you as the wielder of illusion, appearing in the guise of an ascetic.
+Sanatkumāra said:—
+>
+>42. O Vyāsa, saying thus in great anger she showed her brilliant powers as a staunch chaste lady by cursing Viṣṇu.
+>
+>43. “O base foe of the Daityas, defiler of other people’s virtue, O wicked one, take this curse from me, greater in force than all persons.
+>
+>44. The two persons whom you made to appear in front of me shall become Rākṣasas[1] and abduct your wife.
+>
+>45. You will be distressed on account of separation from your wife roaming about with Śeṣa ‘lord of snakes’[2] who posed as your disciple here. You will seek the help of monkeys[3] in the forest.
+>
+>46. After saying this, **Vṛndā entered fire** though prevented by Viṣṇu who was fascinated by her charms. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226164.html" target="_blank">wisdomlib.org</a>
 
 ## Manusmriti
 

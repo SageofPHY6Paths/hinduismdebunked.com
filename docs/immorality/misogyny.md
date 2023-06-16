@@ -168,7 +168,7 @@ Source: <a href="{{ site.baseurl }}/scripture/MatsyaPurana1.pdf" target="_blank"
 ## Ramcharitmanas
 
 ### Ramcharitmanas 3.4.5
-
+{: .no_toc }
 >A woman is impure by her very birth; but she attains a happy state (hereafter) by
 serving her lord. (It is due to her loyalty to her husband that) Tulas∂ is loved by ›r∂ Hari
 even to this day and her glory is sung by all the four Vedas. Listen, S∂tå: women will

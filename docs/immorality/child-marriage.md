@@ -30,7 +30,7 @@ permalink: /immorality/child-marriage/
 ### Baudhayana sutra
 
 ##### BS IV.1.11 to 14
-
+{: .no_toc }
 Source: <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/baudh3.asp#4.1" target="_blank">hinduwebsite.com</a>
 
 >11. Let him give his daughter, while she still goes naked, to a man who has not broken the vow of chastity and who possesses good qualities, or even to one destitute of good qualities; let him not keep (the maiden) in (his house) after she has reached the age of puberty.
