@@ -8,7 +8,7 @@ permalink: /immorality/child-marriage/
 ---
 # Child Marriage
 
-**Worst verses**: [GD 18.21 to 23](#gd-1821-to-23)
+**Worst verses**: [BS IV.1.11 to 14](#bs-iv111-to-14), [GD 18.21 to 23](#gd-1821-to-23)
 
 <details open markdown="block">
   <summary>
@@ -26,6 +26,20 @@ permalink: /immorality/child-marriage/
 ## Bhagavad Gita
 
 ## Dharmashastras
+
+### Baudhayana sutra
+
+##### BS IV.1.11 to 14
+
+Source: <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/baudh3.asp#4.1" target="_blank">hinduwebsite.com</a>
+
+>11. Let him give his daughter, while she still goes naked, to a man who has not broken the vow of chastity and who possesses good qualities, or even to one destitute of good qualities; let him not keep (the maiden) in (his house) after she has reached the age of puberty.
+>
+>12. He who does not give away a marriageable daughter during three years doubtlessly contracts a guilt equal to (that of) destroying an embryo.
+>
+>13. Such will be the case if anybody asks her in marriage, and also if nobody demands her. Manu has declared that at each appearance of the menses (the father incurs the guilt of) a mortal sin.
+>
+>14. Three years let a marriageable damsel wait for the order of her father. But after (that) time let her choose for herself in the fourth year a husband (of) equal (rank). If no man (of) equal (rank) be found, she may take even one destitute of good qualities. <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/baudh3.asp#4.1" target="_blank">hinduwebsite.com</a>
 
 ### Gautama Dharmasutra
 
