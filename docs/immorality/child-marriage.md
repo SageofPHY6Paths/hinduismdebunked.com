@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Child marriage
+title: Child Marriage
 parent: Immorality
 comments: true
 nav_order: 3
 permalink: /immorality/child-marriage/
 ---
+# Child Marriage
+
+**Worst verses**: [GD 18.21 to 23](#gd-1821-to-23)
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -25,10 +29,16 @@ permalink: /immorality/child-marriage/
 
 ### Gautama Dharmasutra
 
-##### GD 18.23
+##### GD 18.21 to 23
 {: .no_toc }
 
->Some (declare, that a girl shall be given in marriage) before she wears clothes. <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/gautama2.asp#ch18" target="_blank">hinduwebsite.com</a>
+Source: <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/gautama2.asp#ch18" target="_blank">hinduwebsite.com</a>
+
+>21. A girl should be given in marriage before (she attains the age of) puberty.
+>
+>22. He who neglects it, commits sin.
+>
+>23. Some (declare, that a girl shall be given in marriage) before she wears clothes. <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/gautama2.asp#ch18" target="_blank">hinduwebsite.com</a>
 
 ## Ramayana
 
