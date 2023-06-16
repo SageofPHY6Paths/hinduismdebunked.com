@@ -48,6 +48,17 @@ Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakr
 
 ### Bhagavata Purana or Srimad Bhagavatam
 
+##### SB 9.14.4
+{: .no_toc }
+>सोऽयजद् राजसूयेन विजित्य भुवनत्रयम् ।<br>
+पत्नीं बृहस्पतेर्दर्पात् तारां नामाहरद् बलात् ॥ ४ ॥
+
+Translations:
+
+> <a href="https://www.srimadbhagavatam.org/canto9/chapter14.html#Text_4" target="_blank">srimadbhagavatam.org</a>: After he had conquered the three worlds, he performed a Râjasûya sacrifice and **kidnapped in his arrogance with force Târâ, the wife of Brihaspati**.
+
+><a href="https://vedabase.io/en/library/sb/9/14/4/" target="_blank">As It Is</a>: After conquering the three worlds [the upper, middle and lower planetary systems], Soma, the moon-god, performed a great sacrifice known as the Rājasūya-yajña. Because he was very much puffed up, he **forcibly kidnapped Bṛhaspati’s wife**, whose name was Tārā.
+
 ##### SB 9.24.33 to 35
 {: .no_toc }
 >तदैवोपागतं देवं वीक्ष्य विस्मितमानसा । प्रत्ययार्थं प्रयुक्ता मे याहि देव क्षमस्व मे ॥ ३३ ॥<br>
