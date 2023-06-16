@@ -9,7 +9,7 @@ permalink: /nonsense/lust/
 # Lust
 {: .no_toc }
 
-**Worst verses**: [SP Kotirudra Samhita 12.45 to 53](#sp-kotirudra-samhita-1245-to-53)
+**Worst verses**: [SP Kotirudra Samhita 12.9 to 20](#sp-kotirudra-samhita-129-to-20)
 
 <details open markdown="block">
   <summary>
@@ -38,6 +38,46 @@ permalink: /nonsense/lust/
 
 Source: <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> or <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english" target="_blank">wisdomlib.org</a>
 
+##### SP Kotirudra Samhita 12.9 to 20
+{: .no_toc }
+
+Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
+
+>9. In the meantime Śiva himself assuming a very hideous form came there in order to test their devotion.
+>
+>10. He was very **brilliant but stark naked**. He had smeared ashes all over his body as the sole ornament. Standing there and **holding his penis** he began to show all sorts of vicious tricks.
+>
+>11. It was with a mind to do something pleasing to the forest-dwellers that Śiva, favourite of the devotees, came to the forest at his will.
+>
+>12. The **wives of the sages were extremely frightened** at this sight. The other women excited and surprised approached the lord.
+>
+>13. Some embraced him. Others held his hands. The women were engrossed in struggling with one another.
+>
+>14. Meanwhile the great sages came there. On seeing him engaged in **perverse activities** they were pained and infuriated.
+>
+>15. The sages, deluded by Śiva’s Māyā and plunged in grief, began to say—“Who is this? Who is this?”
+>
+>16. When the naked sage did not reply, the great sages told that terrible Puruṣa.
+>
+>17. “You are acting pervertedly. This violates the Vedic path. Hence **let your penis fall** on the ground.”
+Sūta said:—
+>
+>18. When they said thus, the **penis of that Avadhūta, who was Śiva** of wonderful form, **fell down instantly**.
+>
+>19. That penis burnt everything in front; wherever it went it began to burn everything there.
+>
+>20. It went to Pātāla; it went to heaven; it went all over the earth; it never remained steady anywhere.
+
+##### SP Kotirudra Samhita 12.31 to 32
+{: .no_toc }
+
+Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
+
+>31. When the great sages asked him thus, Brahmā, the grandfather of the worlds, spoke to them.
+Brahmā said:—
+>
+>32. Let the gods propitiate goddess Pārvatī and pray. **If she can assume the form of the vaginal passage that penis will become steady**.
+
 ##### SP Kotirudra Samhita 12.45 to 53
 {: .no_toc }
 
@@ -47,13 +87,13 @@ Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/
 >
 >45. O gods, O sages, you listen to my words with reverence. If my penis is supported in a vaginal passage there will be happiness.
 >
->46. Except Pārvatī, no other woman can hold my penis. Held by her my penis will immediately become quiet.
+>46. **Except Pārvatī, no other woman can hold my penis**. Held by her my penis will immediately become quiet.
 >
 >Sūta said:—
 >
 >47. O great sages, on hearing those words the delighted sages and the gods took Brahmā with them and prayed to Pārvatī.
 >
->48. After propitiating Pārvatī and the bull-bannered lord and performing the rites mentioned before, the excellent penis became static.
+>48. After propitiating Pārvatī and the **bull-bannered lord** and performing the rites mentioned before, the **excellent penis became static**.
 >
 >49. The gods and the sages propitiated Pārvatī and Śiva by the mode of procedure laid down in the Vedas for the sake of virtue.
 >
@@ -61,7 +101,7 @@ Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/
 >
 >51. Śiva became delighted and so also Pārvatī, the mother of the universe. That phallus was held by her in that form then.
 >
->52. When the phallus was stabilised, there was welfare throughout the worlds. O brahmins, that phallus became famous in the three worlds.
+>52. **When the phallus was stabilised, there was welfare throughout the worlds. O brahmins, that phallus became famous in the three worlds.**
 >
 >53. The phallus is known as “Hāṭeśa” as well as “Śivā-Śiva.” By worshipping it, all the people become happy in every respect. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
 
