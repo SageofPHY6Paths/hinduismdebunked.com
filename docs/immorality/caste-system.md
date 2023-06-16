@@ -10,6 +10,8 @@ permalink: /immorality/caste-system/
 {: .no_toc }
 Caste system is like the Indian version of racism. If you thought the colour of your skin is a very random parameter to determine your worth, you will be shocked because the Indian caste system is even more arbitrary.
 
+**Worst verses**: [MP Part II CCXXVII.131](#part-ii-ccxxvii131), [SB 7.11.15](#sb-71115), [SB 6.18.49](#sb-61849), [BP 115.24](#bp-11524), [BG 18.47](#bg-1847)
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -51,7 +53,7 @@ Translations:
 
 ## Bhagavad Gita
 
-### Bg. 4.13
+### BG 4.13
 {: .no_toc }
 >चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।<br>
 तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥ १३ ॥
@@ -64,7 +66,7 @@ Translations:
 
 **Comment**: *It is not at all surprising that whoever wrote these things kept their own division at the top. These type of arrogance by the makers of religions is common in religions. For example <a href="https://en.wikipedia.org/wiki/Jews_as_the_chosen_people" target="_blank">Jews think they are the chosen people</a>.*
 
-### Bg. 18.47
+### BG 18.47
 {: .no_toc }
 >श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् ।<br>
 स्वभावनियतं कर्म कुर्वन्नाप्‍नोति किल्बिषम् ॥ ४७ ॥
@@ -77,7 +79,7 @@ Translations:
 
 **Comment**: *Hindus often say that as per the actual Hinduism the verna system is not hereditary and it is just a hierarchy given based on their job. They blame either Manusmṛiti or the British colonial rule in India as the cause of why caste system became hereditary. But that is false even in the most authoritative books of Hinduism like Bhagavad Gita caste system is hereditary. If you don't follow your caste occupation you are a sinner according to Hinduism. Whoever wrote these things (Hindus believe these are spoken by Krishna but <a href="https://en.wikipedia.org/wiki/Krishna#Historical_and_literary_sources" target="_blank">Krishna</a> is a fictional character made of an amalgamation of several independent deities) wanted their descendants to be forever doing the easy and high paying jobs and wanted the poor to remain poor forever.*
 
-### Bg. 9.32
+### BG 9.32
 {: .no_toc }
 >मां हि पार्थ व्यपाश्रित्य येऽपि स्यु: पापयोनय: ।<br>
 स्त्रियो वैश्यास्तथा श‍ूद्रास्तेऽपि यान्ति परां गतिम् ॥ ३२ ॥<br>
@@ -88,7 +90,7 @@ Translations:
 
 ><a href="https://vedabase.io/en/library/bg/9/32/" target="_blank">As It Is</a>: O son of Pṛthā, those who take shelter in Me, though they be of lower birth – women, vaiśyas [merchants] and śūdras [workers] – can attain the supreme destination.
 
-### Bg. 18.41
+### BG 18.41
 {: .no_toc }
 >ब्राह्मणक्षत्रियविशां श‍ूद्राणां च परन्तप ।<br>
 कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणै: ॥ ४१ ॥
@@ -99,7 +101,7 @@ Translations:
 
 ><a href="https://vedabase.io/en/library/bg/18/41/" target="_blank">As It Is</a>: Brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distinguished by the qualities born of their own natures in accordance with the material modes, O chastiser of the enemy.
 
-### Bg. 18.42
+### BG 18.42
 {: .no_toc }
 >शमो दमस्तप: शौचं क्षान्तिरार्जवमेव च ।<br>
 ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥ ४२ ॥
@@ -114,7 +116,7 @@ Translations:
 
 **Comment**: *Real wise and knowledged people like <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Einstein</a>, <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Newton</a>, <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Euler</a>, <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank">Gauss</a>, <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Russell</a> etc beg to disagree.*
 
-### Bg. 18.43
+### BG 18.43
 {: .no_toc }
 >शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।<br>
 दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥ ४३ ॥
@@ -125,7 +127,7 @@ Translations:
 
 ><a href="https://vedabase.io/en/library/bg/18/43/" target="_blank">As It Is</a>: Heroism, power, determination, resourcefulness, courage in battle, generosity and leadership are the natural qualities of work for the kṣatriyas.
 
-### Bg. 18.44
+### BG 18.44
 {: .no_toc }
 >कृषिगोरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।<br>
 परिचर्यात्मकं कर्म श‍ूद्रस्यापि स्वभावजम् ॥ ४४ ॥
