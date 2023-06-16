@@ -10,7 +10,7 @@ permalink: /immorality/misogyny/
 
 Just like every other religion, Hinduism is also created by men who considered women as mere objects that they own.
 
-**Worst verses**: [PP 52.19](#pp-5219), [BU 6.4.7](#bu-647), [SP Mahatmyam 3.10](#sp-mahatmyam-310), [SP Rudra Samhita 54.25](#sp-rudra-samhita-5425), [MP 22.32](#mp-2232)
+**Worst verses**: [PP 52.19](#pp-5219), [BU 6.4.7](#bu-647), [SP Mahatmyam 3.10](#sp-mahatmyam-310), [SP Rudra Samhita 54.25](#sp-rudra-samhita-5425), [MP 22.32](#mp-2232), [SB 6.18.42](#sb-61842)
 
 <details open markdown="block">
   <summary>
@@ -83,6 +83,19 @@ Translations:
 > <a href="https://www.srimadbhagavatam.org/canto6/chapter18.html#Text_42" target="_blank">srimadbhagavatam.org</a>: A woman holds nobody dear just like that, she, easily wishing for nobody but herself, is willing to kill or get killed even her own dearest husband, father, son or brother. 
 
 > <a href="https://vedabase.io/en/library/sb/6/18/42/" target="_blank">Vedabase</a>: To satisfy their own interests, women deal with men as if the men were most dear to them, but no one is actually dear to them. Women are supposed to be very saintly, but for their own interests they can kill even their husbands, sons or brothers, or cause them to be killed by others.
+
+##### SB 6.18.33 to 34
+{: .no_toc }
+>पतिरेव हि नारीणां दैवतं परमं स्मृतम् ।<br>
+मानस: सर्वभूतानां वासुदेव: श्रिय: पति: ॥ ३३ ॥<br>
+स एव देवतालिङ्गैर्नामरूपविकल्पितै: ।<br>
+इज्यते भगवान् पुम्भि: स्त्रीभिश्च पतिरूपधृक् ॥ ३४ ॥
+
+Translations:
+
+> <a href="https://www.srimadbhagavatam.org/canto6/chapter18.html#Text_33-34" target="_blank">srimadbhagavatam.org</a>: The husband is considered the worshipable deity of the woman. Vâsudeva who, situated in the heart of all as the husband of the Goddess of Fortune, is worshiped as the Supreme Lord by men through the forms and names of the different divinities, is there also for women in the form of the husband. 
+
+> <a href="https://vedabase.io/en/library/sb/6/18/33-34/" target="_blank">Vedabase</a>: A husband is the supreme demigod for a woman. The Supreme Personality of Godhead, Lord Vāsudeva, the husband of the goddess of fortune, is situated in everyone’s heart and is worshiped through the various names and forms of the demigods by fruitive workers. Similarly, a husband represents the Lord as the object of worship for a woman.
 
 ### Brahma Purana
 
