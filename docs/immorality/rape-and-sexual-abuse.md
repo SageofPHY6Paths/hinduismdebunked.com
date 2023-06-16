@@ -211,7 +211,7 @@ Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kan
 >
 >TulasI said—O lord, you are heartless, having no compassion. You are hard like a stone. **You have defiled my chastity deceitfully and have killed my husband.**
 >
->O lord, therefore you are stone-hearted and devoid of compassion. You will therefore take the form of a stone on earth.
+>O lord, therefore you are stone-hearted and devoid of compassion. You will therefore take the form of a stone on earth. <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 306)
 
 ##### BVP Krishna Janma Kanda 61.43-44
 {: .no_toc }

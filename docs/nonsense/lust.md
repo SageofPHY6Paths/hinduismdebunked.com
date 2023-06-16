@@ -116,3 +116,19 @@ Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/
 ##### SP Vidyesvara Samhita 21.39
 {: .no_toc }
 > Brahmins, Ksatriyas, Vaisyas, Sudras, persons born of inter-caste marriages and others shall worship the **phallic** icon with great devotion with the respective mantras [Source]({{ site.baseurl }}/scripture/SivaPurana.pdf) (Page-166)
+
+### Brahma Vaivarta Purana
+
+##### BVP Brahma Kanda 9.23-33
+{: .no_toc }
+Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 40)
+
+>Sauti said, “**once the earth-became passionate** at the sight of the beauty of Upendra. She then **turned herself into the form of a beautiful damsel** and went to the lonely place of Malyavan mountain which abounded with the sandal-wood trees having tender leaves. Her entire body was plastered with the sandal-paste. She was adorned with the gem-studded ornaments and wore a serene and calm out look and a smile on her face. She wore a beautiful garland of fragrant flowers, besides the perfume of saffron and kasturl emitted from her body. **She found her beloved sleeping over a bed and infected with passion she** herself reached him she then presented him with beautiful garland of fragrant jasmine flowers together with the perfume of kasturi and saffron.
+>
+>**By her union with him she felt intoxicated and was about to faint. When the seed of Visnu was implanted in her she felt like a half dead person.**
+>
+>Thereafter, the damsel with wide waist and **developed breasts, fatigued with the performing** of the love sport, she was smiling. Upendra them **embraced her and kissed her lips. Thereafter**, Purusottama left the place leaving her alone there.
+>
+>O sage, per chance Urvasi, passed by the way. She enquired about her welfare and brought her to senses. The earth goddess narrated to her the entire story.
+>
+>Thereafter the **weak earth was unable to bear the seed of Visnu. She then dropped the semen in the mine of gems and the planet Mangala was born out of it**. That son of Narayana was known as great illustrious like the sun. <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 40)
