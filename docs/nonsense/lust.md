@@ -4,7 +4,7 @@ title: Lust
 parent: Nonsense
 comments: true
 nav_order: 0
-permalink: /nonsense/logic/
+permalink: /nonsense/lust/
 ---
 # Lust
 {: .no_toc }
