@@ -73,7 +73,7 @@ Translations:
 
 ><a href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=52" target="_blank">IITK</a>: Famished, they (Rama and Lakshmana) **killed** a boar, a rishya (whitefooted male antelope), a spotted deer and a great deer with black stripes. They partook the meat and reached a tree by evening where they rested for the night.
 
-**Comment**: Why is he killing animals? Don't say he needs it to survive. Bhagiratha a mere human being <a href="https://hinduismdebunked.com/nonsense/history/#mb-book-3-vana-parva-tirtha-yatra-parva-section-cviii" target="_blank">was able to live 1000 deva years without food</a> in Hindu fiction. Rama was a god in human avatar, he should be able to live for even more years. Even if for some reason he needs food why can't he do some plant agriculture?
+**Comment**: *Why is he killing animals? Don't say he needs it to survive. Bhagiratha a mere human being <a href="https://hinduismdebunked.com/nonsense/history/#mb-book-3-vana-parva-tirtha-yatra-parva-section-cviii" target="_blank">was able to live 1000 deva years without food</a> in Hindu fiction. Rama was a god in human avatar, he should be able to live for even more years. Even if for some reason he needs food why can't he do some plant agriculture?*
 
 ### Ramayana Ayodhya Kanda sarga 55 shloka 33
 {: .no_toc }
