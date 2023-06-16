@@ -109,10 +109,12 @@ Source: <a href="https://www.sacred-texts.com/hin/db/bk02ch06.htm" target="_blan
 ### Brahma Vaivarta Purana
 
 ##### BVP Krishna Janma Kanda 61.43-44
+{: .no_toc }
+Source: <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 433)
 
 >Reaching there she narrated the entire story to the sage Gautama laughingly denounced Indra very much. Soon thereafter Gautama went to Siva, in the meantime **Indra impersonating himself as Gautama enjoyed the company of Ahalya.**
 >
->The all knowledgeable sage came to know about everything and immediately returned to his abode. Gatuama the best of the sages spotted Indra moving out of his hermitage and also found **Ahalya having the developed pelvic region and the breasts, lying unrobed there.** The sage then pronounced a curse on Indra, **"You will have yonis all through your body"**. In anger he pronounced a **curse also on the terrified and crying Ahalya**, 'Tn the thick forest you will be turned into a stone". After getting immensely ashamed Indra went to his abode but the terrified Ahalya with her mind filled with grief spoke sweet words to Gautama.
+>The all knowledgeable sage came to know about everything and immediately returned to his abode. Gatuama the best of the sages spotted Indra moving out of his hermitage and also found **Ahalya having the developed pelvic region and the breasts, lying unrobed there.** The sage then pronounced a curse on Indra, **"You will have yonis all through your body"**. In anger he pronounced a **curse also on the terrified and crying Ahalya**, 'Tn the thick forest you will be turned into a stone". After getting immensely ashamed Indra went to his abode but the terrified Ahalya with her mind filled with grief spoke sweet words to Gautama. <a href="https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation" target="_blank">PDF</a> (Page - 433)
 
 ### Shiva Purana
 
