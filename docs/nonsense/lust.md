@@ -65,8 +65,14 @@ Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/
 >
 >53. The phallus is known as “Hāṭeśa” as well as “Śivā-Śiva.” By worshipping it, all the people become happy in every respect. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
 
-**Comment**: *Why are these people so obsessed with phallus (erect penis)?*
+**Comment**: *Why are the creators of Hinduism people so obsessed with phallus (erect penis)?*
+
+### Padma Purana
+
+##### PP Sristi Kanda 31.126-127
+{: .no_toc }
+> I shall give you as food which has never been tasted before by anyone. Below my navel are these **two circular long and fruit-like testicles**. Even with this food you will have great satisfaction.” <a href="https://www.wisdomlib.org/hinduism/book/the-padma-purana/d/doc364152.html" target="_blank">wisdomlib.org</a>
 
 ##### SP Vidyesvara Samhita 21.39
 {: .no_toc }
-> Brahmins, Ksatriyas, Vaisyas, Sudras, persons born of inter-caste marriages and others shall worship the phallic icon with great devotion with the respective mantras [Source]({{ site.baseurl }}/scripture/SivaPurana.pdf) (Page-166)
+> Brahmins, Ksatriyas, Vaisyas, Sudras, persons born of inter-caste marriages and others shall worship the **phallic** icon with great devotion with the respective mantras [Source]({{ site.baseurl }}/scripture/SivaPurana.pdf) (Page-166)
