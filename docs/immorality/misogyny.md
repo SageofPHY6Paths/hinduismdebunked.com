@@ -40,12 +40,22 @@ Just like every other religion, Hinduism is also created by men who considered w
 ### Ramayana Ayodhya Kanda sarga 24 shloka 20
 {: .no_toc }
 
-> ताम् तथा रुदतीम् रामः रुदन् वचनम् अब्रवीत् || २-२४-२०<br>
+>ताम् तथा रुदतीम् रामः रुदन् वचनम् अब्रवीत् || २-२४-२०<br>
 जीवन्त्या हि स्त्रिया भर्ता दैवतम् प्रभुर् एव च |
 
-><a href="https://sanskritdocuments.org/sites/valmikiramayan/ayodhya/sarga24/ayodhyasans24.htm#Verse20" target="_blank">sanskritdocuments.org</a>:  "Rama spoke thus these words bemoaningly to her, who was weeping= "as long as a woman is alive ,her husband is god and master to her".
+><a href="https://sanskritdocuments.org/sites/valmikiramayan/ayodhya/sarga24/ayodhyasans24.htm#Verse20" target="_blank">sanskritdocuments.org</a>: "Rama spoke thus these words bemoaningly to her, who was weeping= "as long as a woman is alive ,her husband is god and master to her".
 
 ><a href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=24" target="_blank">IITK</a>: Adding his tears to his mother's who was wailing Rama said As long as a woman lives, her husband is her god and also her lord (master).
+
+### Ramayana Ayodhya Kanda sarga 24 shloka 25
+{: .no_toc }
+
+>व्रत उपवास निरता या नारी परम उत्तमा || २-२४-२५<br>
+भर्तारम् न अनुवर्तेत सा च पाप गतिर् भवेत् |
+
+><a href="https://sanskritdocuments.org/sites/valmikiramayan/ayodhya/sarga24/ayodhyasans24.htm#Verse25" target="_blank">sanskritdocuments.org</a>: "Even if a woman is interested in religious vows and fastings in addition to being the best of the excellent ;if she does not obey her husband she will become ill-fated !"
+
+><a href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=24" target="_blank">IITK</a>: A woman may be highly pious engaged in vows and fastings, but if she does not follow her husband, she will be condemned to hell.
 
 ## Mahabharata
 
