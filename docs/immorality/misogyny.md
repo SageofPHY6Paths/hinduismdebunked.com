@@ -10,7 +10,7 @@ permalink: /immorality/misogyny/
 
 Just like every other religion, Hinduism is also created by men who considered women as mere objects that they own.
 
-**Worst verses**: [PP 52.19](#pp-5219), [BU 6.4.7](#bu-647), [SP Mahatmyam 3.10](#sp-mahatmyam-310), [SP Rudra Samhita 54.25](#sp-rudra-samhita-5425), [MP 22.32](#mp-2232), [SB 6.18.42](#sb-61842)
+**Worst verses**: [PP 52.19](#pp-5219), [BU 6.4.7](#bu-647), [SP Mahatmyam 3.10](#sp-mahatmyam-310), [SP Rudra Samhita 54.25](#sp-rudra-samhita-5425), [MP 22.33](#mp-2233), [SB 6.18.42](#sb-61842)
 
 <details open markdown="block">
   <summary>
@@ -108,7 +108,7 @@ Translations:
 {: .no_toc }
 >O virtuous lady. So women by obedience to their husbands obtain half of the entire merit painfully earned by their husbands. There is no separate sacrifice for women, nor shraddha, nor fasting : for by obedience to their husbands indeed they reach these desired worlds. <a href="{{ site.baseurl }}/scripture/MarkandeyaPurana.pdf" target="_blank">Source</a> (Page-142)
 
-##### MP 22.32
+##### MP 22.33
 {: .no_toc }
 >For women have no deity besides a husband. For she would have to be thus bewailed by us, and her relatives, and other compassionate persons, if she were seperated from her husband. But this noble lady, who on hearing of the death of her husband has immediately followed her husband, should not for this reason be bewailed by the wise. <a href="{{ site.baseurl }}/scripture/MarkandeyaPurana.pdf" target="_blank">Source</a> (Page-169) 
 
@@ -164,6 +164,17 @@ Source: <a href="{{ site.baseurl }}/scripture/MatsyaPurana1.pdf" target="_blank"
 ##### Part II CLIV.166
 {: .no_toc }
 > The husband of a woman in spite of his being poor, unfortunate, illiterate and void of all fortune is like God to her. <a href="{{ site.baseurl }}/assets/images/matsya-purana[154.166].png" target="_blank">Image</a>
+
+## Ramcharitmanas
+
+### Ramcharitmanas 3.4.5
+
+>A woman is impure by her very birth; but she attains a happy state (hereafter) by
+serving her lord. (It is due to her loyalty to her husband that) Tulas∂ is loved by ›r∂ Hari
+even to this day and her glory is sung by all the four Vedas. Listen, S∂tå: women will
+maintain their vow of fidelity to their husband by invoking your very name, ›r∂ Råma
+being dear to you as your own life. It is for the good of the world that I have spoken to
+you on the subject. <a href="https://www.hariomgroup.org/hariombooks_shastra/Ramcharitmanas/Sri-Ram-Charit-Manas-Hindi-Text-with-English-Translation.pdf" target="_blank">PDF</a> (Page - 673)
 
 ## Manusmriti
 
