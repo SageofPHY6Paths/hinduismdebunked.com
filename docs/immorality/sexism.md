@@ -6,6 +6,10 @@ comments: true
 nav_order: 2
 permalink: /immorality/sexism/
 ---
+Just like every other religion, Hinduism is also created by men who considered women as mere objects that they own. This page contains misogyny related verses.
+
+**Worst verses**: [PP 52.19](#pp-5219), [BU 6.4.7](#bu-647), [SP Mahatmyam 3.10](#sp-mahatmyam-310), [SP Rudra Samhita 54.25](#sp-rudra-samhita-5425), [MP 22.32](#mp-2232)
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -73,27 +77,29 @@ Translations:
 
 ### Shiva Purana
 
+Source: <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> or <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english" target="_blank">wisdomlib.org</a>
+
 ##### SP Mahatmyam 3.10
 {: .no_toc }
 > All the women too are equally crooked, whorish and
 sinful. Evil-tempered, loose in morals they are devoid of
-good behaviour and disciplined life. <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">Source</a> (Page-31)
+good behaviour and disciplined life. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc225538.html" target="_blank">wisdomlib.org</a> or <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> (Page-31)
 
 ##### SP Vidyesvara Samhita 1.32
 {: .no_toc }
-> Women too generally misbehave and err; they slight their husbands ; they are inimical to their fathers-inlaw ; fearlessly they pursue their immoral activities. <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">Source</a> (Page-58)
+> Women too generally misbehave and err; they slight their husbands ; they are inimical to their fathers-inlaw ; fearlessly they pursue their immoral activities. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc225544.html" target="_blank">wisdomlib.org</a> or <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PDF</a> (Page-58)
 
 ##### SP Rudra Samhita 54.19
 {: .no_toc }
-> A chaste lady shall never mention her husband’s name. If the husband scolds or rebukes her she shall not abuse him in return. Even when beaten by him she shall remain glad and say “I may even be killed, O lord. Be kind to me.” <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226118.html" target="_blank">Source</a>
+> A chaste lady shall never mention her husband’s name. If the husband scolds or rebukes her she shall not abuse him in return. Even when beaten by him she shall remain glad and say “I may even be killed, O lord. Be kind to me.” <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226118.html" target="_blank">wisdomlib.org</a>
 
 ##### SP Rudra Samhita 54.25
 {: .no_toc }
-> If a women wants holy water she shall drink the same with which her husband’s feet have been washed. All holy rivers are present in that water. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226118.html" target="_blank">Source</a>
+> If a women wants holy water she shall drink the same with which her husband’s feet have been washed. All holy rivers are present in that water. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226118.html" target="_blank">wisdomlib.org</a>
 
 ##### SP Rudra Samhita 54.53
 {: .no_toc }
-> If she desires to beat her husband in retaliation, she becomes a tiger or a wild cat. She who ogles at another man becomes squint-eyed. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226118.html" target="_blank">Source</a>
+> If she desires to beat her husband in retaliation, she becomes a tiger or a wild cat. She who ogles at another man becomes squint-eyed. <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226118.html" target="_blank">wisdomlib.org</a>
 
 ### Agni Purana
 
