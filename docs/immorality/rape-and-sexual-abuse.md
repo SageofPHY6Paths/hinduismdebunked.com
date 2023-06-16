@@ -11,7 +11,7 @@ permalink: /immorality/rape-and-sexual-abuse/
 
 **Worst verses**:
 
-Rape: [SP V.iii.136.1-16](#sp-viii1361-to-16), [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
+Rape: [SP V.iii.136.1-16](#sp-viii1361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
 
 <details open markdown="block">
   <summary>
@@ -105,6 +105,14 @@ Source: <a href="https://www.sacred-texts.com/hin/db/bk02ch06.htm" target="_blan
 >Within a moment thereafter, O descendant of Bharata, the excellent sage hurriedly entered the apartment.
 >
 >On seeing Gautama come Purandara became terrified and he went out. Seeing him he thought (knew) that it was Śakra. So Gautama became highly enraged and he cursed Devendra: “Since you could not control your senses, be one with a thousand vaginal apertures.” On being cursed thus, Devendra was instantly **covered with a thousand vaginal apertures**. He became bereft of all glory. He left the kingdom and the Suras too. He performed elaborate penance on the earth. <a href="https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc425865.html" target="_blank">wisdomlib.org</a>
+
+### Brahma Vaivarta Purana
+
+##### BVP Krishna Janma Kanda 61.43-44
+
+>Reaching there she narrated the entire story to the sage Gautama laughingly denounced Indra very much. Soon thereafter Gautama went to Siva, in the meantime **Indra impersonating himself as Gautama enjoyed the company of Ahalya.**
+>
+>The all knowledgeable sage came to know about everything and immediately returned to his abode. Gatuama the best of the sages spotted Indra moving out of his hermitage and also found **Ahalya having the developed pelvic region and the breasts, lying unrobed there.** The sage then pronounced a curse on Indra, **"You will have yonis all through your body"**. In anger he pronounced a **curse also on the terrified and crying Ahalya**, 'Tn the thick forest you will be turned into a stone". After getting immensely ashamed Indra went to his abode but the terrified Ahalya with her mind filled with grief spoke sweet words to Gautama.
 
 ### Shiva Purana
 
