@@ -70,8 +70,6 @@ Translations:
 
 > <a href="https://vedabase.io/en/library/sb/6/9/9/" target="_blank">Vedabase</a>: In return for Lord Indra’s benediction that they would be able to enjoy lusty desires continuously, even during pregnancy for as long as sex is not injurious to the embryo, women accepted one fourth of the sinful reactions. As a result of those reactions, women manifest the signs of menstruation every month.
 
-**Comment**: *WOMEN you can not cry from pain each month for being on periods, you traded them with INDRA for being more lusty.*
-
 ## Manusmriti
 
 ### MS III.48
