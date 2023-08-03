@@ -33,7 +33,7 @@ permalink: /nonsense/history/
 
 ><a href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1" target="_blank">IITK</a>: Rama, reigning the kingdom for eleven thousand years, will attain Brahmaloka.
 
-**Comment**: *This makes no sense what so ever from a historical perspective. The oldest parts of the Ramayana date to between the mid-7th century BCE and the mid-6th century BCE. If you assume Rama died around that time then Rama was ruling from around 11700 BCE. Back then there was no civilisation in India. Indus Valley civilisation started in 3300 BCE.*
+**Comment**: *This makes no sense what so ever from a historical perspective. The oldest parts of the Ramayana date to between the mid-7th century BCE and the mid-6th century BCE. If you assume Rama died around that time then Rama was ruling from around 11700 BCE. Back then there was no civilisation in India. Indus Valley civilisation started in 3300 BCE. And Indus Valley civilisation was not even a Hindu civilisation. Hinduism came much later.*
 
 ### Ramayana Balakanda sarga 20 shloka 10
 {: .no_toc }
