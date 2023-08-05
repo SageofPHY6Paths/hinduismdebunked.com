@@ -43,40 +43,63 @@ Source: <a href="{{ site.baseurl }}/scripture/SivaPurana.pdf" target="_blank">PD
 
 Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
 
->9. In the meantime Śiva himself assuming a very hideous form came there in order to test their devotion.
+>9) In the meantime Śiva himself assuming a very hideous form came there in order to test their devotion.
 >
->10. He was very **brilliant but stark naked**. He had smeared ashes all over his body as the sole ornament. Standing there and **holding his penis** he began to show all sorts of vicious tricks.
+>10) He was very **brilliant but stark naked**. He had smeared ashes all over his body as the sole ornament. Standing there and **holding his penis** he began to show all sorts of vicious tricks.
 >
->11. It was with a mind to do something pleasing to the forest-dwellers that Śiva, favourite of the devotees, came to the forest at his will.
+>11) It was with a mind to do something pleasing to the forest-dwellers that Śiva, favourite of the devotees, came to the forest at his will.
 >
->12. The **wives of the sages were extremely frightened** at this sight. The other women excited and surprised approached the lord.
+>12) The **wives of the sages were extremely frightened** at this sight. The other women excited and surprised approached the lord.
 >
->13. Some embraced him. Others held his hands. The women were engrossed in struggling with one another.
+>13) Some embraced him. Others held his hands. The women were engrossed in struggling with one another.
 >
->14. Meanwhile the great sages came there. On seeing him engaged in **perverse activities** they were pained and infuriated.
+>14) Meanwhile the great sages came there. On seeing him engaged in **perverse activities** they were pained and infuriated.
 >
->15. The sages, deluded by Śiva’s Māyā and plunged in grief, began to say—“Who is this? Who is this?”
+>15) The sages, deluded by Śiva’s Māyā and plunged in grief, began to say—“Who is this? Who is this?”
 >
->16. When the naked sage did not reply, the great sages told that terrible Puruṣa.
+>16) When the naked sage did not reply, the great sages told that terrible Puruṣa.
 >
->17. “You are acting pervertedly. This violates the Vedic path. Hence **let your penis fall** on the ground.”
+>17) “You are acting pervertedly. This violates the Vedic path. Hence **let your penis fall** on the ground.”
+>
 Sūta said:—
 >
->18. When they said thus, the **penis of that Avadhūta, who was Śiva** of wonderful form, **fell down instantly**.
+>18) When they said thus, the **penis of that Avadhūta, who was Śiva** of wonderful form, **fell down instantly**.
 >
->19. That penis burnt everything in front; wherever it went it began to burn everything there.
+>19) That penis burnt everything in front; wherever it went it began to burn everything there.
 >
->20. It went to Pātāla; it went to heaven; it went all over the earth; it never remained steady anywhere.
+>20) It went to Pātāla; it went to heaven; it went all over the earth; it **never remained steady anywhere**.
 
-##### SP Kotirudra Samhita 12.31 to 32
+##### SP Kotirudra Samhita 12.28 to 29
 {: .no_toc }
 
 Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
 
->31. When the great sages asked him thus, Brahmā, the grandfather of the worlds, spoke to them.
-Brahmā said:—
+>Brahmā said:—
 >
->32. Let the gods propitiate goddess Pārvatī and pray. **If she can assume the form of the vaginal passage that penis will become steady**.
+>28) **As long as the penis does not become stationary there cannot be anything good in the three worlds**. I am telling you the truth.
+>
+>29) O sages, you must do **such things as will make the penis of Śiva steady**. Please ponder over this in your minds.
+
+##### SP Kotirudra Samhita 12.31 to 37
+{: .no_toc }
+
+Source: <a href="https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226513.html" target="_blank">wisdomlib.org</a>
+
+>31) When the great sages asked him thus, Brahmā, the grandfather of the worlds, spoke to them.
+>
+>Brahmā said:—
+>
+>32) Let the gods propitiate goddess Pārvatī and pray. **If she can assume the form of the vaginal passage that penis will become steady**.
+>
+>33) O excellent sages, listen. I shall tell you the mode of procedure. Act accordingly with love and devotion. **She will be thus pleased.**
+>
+>34) Make an eight-petalled mystic diagram of lotus and place a pot over it. Water from holy centres shall be poured into the pot along with the sprouts of Dūrvā and barley.
+>
+>35) The pot shall be invoked with Vedic mantras. It shall be worshipped according to the Vedic rituals after remembering Śiva.
+>
+>36) The **penis shall be drenched with that water**, O great sages. When the sprinkling is made with Śatarudrīya mantras it will become stable.
+>
+>37) **Pārvatī in the form of the Vaginal passage** and an auspicions arrow shall form as the pedestal wherein **the phallus shall be installed** in accompaniment of the Vedic mantras.
 
 ##### SP Kotirudra Samhita 12.45 to 53
 {: .no_toc }
