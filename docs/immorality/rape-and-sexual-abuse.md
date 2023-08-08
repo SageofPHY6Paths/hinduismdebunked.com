@@ -11,7 +11,7 @@ permalink: /immorality/rape-and-sexual-abuse/
 
 **Worst verses**:
 
-Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by **Vishnu** (most popular Hindu god), [SB 8.12.26-33](#sb-81226-33) by **Shiva** (2nd most popular Hindu god), [SkP 5.3.136.1 to 16](#skp-531361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.20.36](#sb-92036)+[MP 49.17-28](#mp-4917-28) by Brihaspati, [BVP Krishna Janma Kanda 80.11-19](#bvp-krishna-janma-kanda-8011-19)+[SB 9.14.4](#sb-9144) by Soma (Moon), [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
+Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by **Vishnu** (most popular Hindu god), [SB 8.12.26-33](#sb-81226-33) by **Shiva** (2nd most popular Hindu god), [SkP 5.3.136.1 to 16](#skp-531361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra (also see [Ramayana Balakanda Sarga 48](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=48){:target="_blank"} and [49](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=49){:target="_blank"}), [SB 9.20.36](#sb-92036)+[MP 49.17-28](#mp-4917-28) by Brihaspati, [BVP Krishna Janma Kanda 80.11-19](#bvp-krishna-janma-kanda-8011-19)+[SB 9.14.4](#sb-9144) by Soma (Moon), [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
 
 <details open markdown="block">
   <summary>
