@@ -11,7 +11,7 @@ permalink: /immorality/rape-and-sexual-abuse/
 
 **Worst verses**:
 
-Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by **Vishnu** (most popular Hindu god), [SB 8.12.26-33](#sb-81226-33) by **Shiva** (2nd most popular Hindu god), [SP V.iii.136.1-16](#sp-viii1361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.20.36](#sb-92036)+[MP 49.17-28](#mp-4917-28) by Brihaspati, [BVP Krishna Janma Kanda 80.11-19](#bvp-krishna-janma-kanda-8011-19)+[SB 9.14.4](#sb-9144) by Soma (Moon), [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
+Rape: [SP 2.5 23.38-46](#sp-25-2338-46)+[BVP Prakriti Kanda 21.18-24](#bvp-prakriti-kanda-2118-24) by **Vishnu** (most popular Hindu god), [SB 8.12.26-33](#sb-81226-33) by **Shiva** (2nd most popular Hindu god), [SkP 5.3.136.1 to 16](#skp-531361-to-16)+[BVP Krishna Janma Kanda 61.43-44](#bvp-krishna-janma-kanda-6143-44) by Indra, [SB 9.20.36](#sb-92036)+[MP 49.17-28](#mp-4917-28) by Brihaspati, [BVP Krishna Janma Kanda 80.11-19](#bvp-krishna-janma-kanda-8011-19)+[SB 9.14.4](#sb-9144) by Soma (Moon), [SB 9.24.33 to 35](#sb-92433-to-35)+ [DBP 2.6.13 to 35](#dbp-2613-to-35) by Surya (Sun)
 
 <details open markdown="block">
   <summary>
@@ -171,11 +171,10 @@ Source: <a href="https://www.sacred-texts.com/hin/db/bk02ch06.htm" target="_blan
 
 ### Skanda Purana
 
-##### SP V.iii.136.1 to 16
+##### SkP 5.3.136.1 to 16
 {: .no_toc }
-<a href="https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc425865.html" target="_blank">wisdomlib.org</a>
 
->Śrī Mārkaṇḍeya said:
+> <a href="https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc425865.html" target="_blank">wisdomlib.org</a>: Śrī Mārkaṇḍeya said:
 >
 >1-7. Thereafter, O king, one should go to the excellent Ahalyeśvara Tīrtha where the blessed ascetic lady Ahalyā received redemption and fulfilment formerly.
 >

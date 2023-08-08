@@ -56,11 +56,20 @@ Source: <a href="https://www.hinduwebsite.com/sacredscripts/hinduism/dharma/gaut
 
 ## Ramayana
 
+
+
 ## Mahabharata
 
 ## Upanishads
 
 ## Puranas
+
+### Skanda Purana
+
+##### SkP 3.2.30.8 to 9
+{: .no_toc }
+
+> <a href="https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc423651.html" target="_blank">wisdomlib.org</a>: 8-9. The bow of Īśvara that was kept in the abode of Janaka, was broken. In his fifteenth year, O king, Rāma married the six-year old beautiful daughter of the king of Mithilā,[1] Sītā who was not born of a womb. On getting Sītā, Rāghava became contented and happy.
 
 ### Agni Purana
 
