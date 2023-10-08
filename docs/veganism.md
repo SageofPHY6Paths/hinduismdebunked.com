@@ -5,7 +5,7 @@ comments: true
 nav_order: 10
 permalink: /veganism/
 ---
-The name of this website is inspired from <a href="https://www.carnismdebunked.com/" target="_blank">carnismdebunked.com</a> which is an excellent website to debunk any excuesed for not being a vegan.
+The name of this website is inspired from <a href="https://www.carnismdebunked.com/" target="_blank">carnismdebunked.com</a> which is an excellent website to debunk any excuses for not being a vegan. I also recommend everyone to watch <a href="https://www.youtube.com/watch?v=UcN7SGGoCNI" target="_blank">DAIRY IS SCARY! The industry explained in 5 minutes</a>.
 
 1. TOC
 {:toc}
@@ -38,6 +38,7 @@ This is easily the most important argument for veganism. Maybe after some centur
 
 ## Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than all transportation emissions combined. [Source](https://www.fao.org/3/a0701e/a0701e00.htm)
+<br>
 <img src="../../../assets/images/other/land-use-kcal-poore.png" width="400"/>
 <img src="../../../assets/images/other/share-cereal-human-food.png" width="400"/>
 <img src="../../../assets/images/other/Land-use-of-different-diets-Poore-Nemecek.png" width="400"/>
@@ -91,6 +92,19 @@ Youtubers:
 - [Lifting Vegan Logic](https://www.youtube.com/@LiftingVeganLogic){:target="_blank"}
 - [David Ramms](https://www.youtube.com/@davidramms){:target="_blank"}
 - [Joey Carbstrong](https://www.youtube.com/@JoeyCarbstrong){:target="_blank"}
+
+## Videos
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcN7SGGoCNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LQRAfJyEsko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nV04zyfLyN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Jf44vLndiRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yKp8-X1zZqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnQL-brI-9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/roIWg4ntj9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/es6U00LMmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/utPkDP3T7R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Cooking
 
 1) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
@@ -141,18 +155,6 @@ Example video:<br>
 17) [Edgy Veg](https://www.youtube.com/@EdgyVeg){:target="_blank"}
 
 18) [Julia Ayers](https://www.youtube.com/@juliaayers111){:target="_blank"}
-
-## Videos
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcN7SGGoCNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LQRAfJyEsko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nV04zyfLyN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Jf44vLndiRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yKp8-X1zZqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnQL-brI-9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/roIWg4ntj9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/es6U00LMmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/utPkDP3T7R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Other
 - [Vegan sidekick](http://tinyurl.com/vegansidekick)
