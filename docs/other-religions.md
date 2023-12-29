@@ -56,6 +56,7 @@ You can find links to other criticisms of religions on this page. This site is e
 
 ### General
 
+<img src="https://user-images.githubusercontent.com/62174391/168457099-c0755356-a1d8-47b1-96db-93ce8e46c2af.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/168458498-4a889c81-1395-4134-a542-847736be93c2.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/151689716-b31b8fb1-09c9-4811-b382-7cf2c9b15230.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/138553561-608af8fa-9b63-4336-b004-0318ee8b21c4.png" width="500">
@@ -69,7 +70,6 @@ You can find links to other criticisms of religions on this page. This site is e
 <img src="https://user-images.githubusercontent.com/62174391/151689759-23a931e3-3878-4467-9493-80e2b3f823d0.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/153546383-16350a1e-ad95-4101-950e-396f7321f08a.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/153546330-7c50f689-7f30-48f0-903c-7caa831d8da1.png" width="500">
-<img src="https://user-images.githubusercontent.com/62174391/168457099-c0755356-a1d8-47b1-96db-93ce8e46c2af.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/168458192-d3514f1e-b45d-408a-b836-aab3faaaad20.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/170841512-8ed39fbb-b1c9-48f8-b4b5-5feed63c2700.png" width="500">
 <img src="https://user-images.githubusercontent.com/62174391/170841286-7dc78469-6d76-42a4-8c38-3d697ca174a0.png" width="500">
