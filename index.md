@@ -26,3 +26,5 @@ There is a lack of criticism by atheists about Hinduism. There is a good amount 
 This website is not made to spread hatred toward Hindus. We promote **ahiṃsā** and **compassion** on this site. We can hate an ideology but still love the people who follow that ideology just like we can hate a disease but still love the diseased. All religions are diseases and we want to cure the religious people.
 
 This site is especially influenced by <a href="https://skepticsannotatedbible.com" target="_blank">Skeptic's Annotated Bible</a> and <a href="https://wikiislam.net/wiki/Main_Page" target="_blank">WikiIslam.net</a>. Some verses were found from <a href="https://www.reddit.com/r/EXHINDU" target="_blank">r/EXHINDU</a>. You can find some links to criticism of other religions on the [Other Religions](/other-religions/). You can read the contribution guidelines on the [Contribute page](/contribute/).
+
+If you don't know how to use GitHub to make changes to this website you can directly send any verses you find to me by emailing to [sageofphy6paths@gmail.com](mailto:sageofphy6paths@gmail.com).
