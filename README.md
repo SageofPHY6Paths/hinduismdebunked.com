@@ -12,6 +12,7 @@
 
 - For every new Bhagavad Gita citation, always add Besant 4th edition on Wikisource first.
 - After Besant, always add the "Bhagavad-gītā As It Is" version (this is required, not optional).
+- Keep one empty line between the Besant quote block and the As It Is quote block so they render as two separate quotes (not one merged quote).
 - Add verses in relevant topical files/subsections (not as a single dump list).
 - Use this consistent entry structure:
   - Verse heading: `### BG X.Y`

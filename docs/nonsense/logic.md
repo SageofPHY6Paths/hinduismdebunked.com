@@ -28,6 +28,7 @@ permalink: /nonsense/logic/
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#12" target="_blank">Besant</a>: Nor at any time verily was I not, nor thou, nor these lords of men; nor verily shall we ever cease to be hereafter.
+
 > <a href="https://vedabase.io/en/library/bg/2/12/" target="_blank">As It Is</a>: Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.
 
 **Comment**: *This claims eternal personal existence without evidence, making it a metaphysical assertion rather than a logical conclusion.*
@@ -37,6 +38,7 @@ Translations:
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#22" target="_blank">Besant</a>: As a man casteth off worn-out clothes and putteth on others that are new, so the embodied casteth off worn-out bodies and entereth into others that are new.
+
 > <a href="https://vedabase.io/en/library/bg/2/22/" target="_blank">As It Is</a>: As a person puts on new garments, giving up old ones, the soul similarly accepts new material bodies, giving up the old and useless ones.
 
 **Comment**: *Rebirth is asserted as fact through analogy, but analogy is not proof.*
@@ -46,6 +48,7 @@ Translations:
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#23" target="_blank">Besant</a>: Weapons cleave him not, fire burneth him not, waters wet him not, wind drieth him not.
+
 > <a href="https://vedabase.io/en/library/bg/2/23/" target="_blank">As It Is</a>: The soul can never be cut to pieces by any weapon, nor burned by fire, nor moistened by water, nor withered by the wind.
 
 **Comment**: *This describes an entity that is physically unaffected by all physical processes, which is not testable or evidenced.*
@@ -55,6 +58,7 @@ Translations:
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_3#14" target="_blank">Besant</a>: From food creatures come forth; from rain food is produced; from sacrifice ariseth rain; sacrifice is born of action.
+
 > <a href="https://vedabase.io/en/library/bg/3/14/" target="_blank">As It Is</a>: All living bodies subsist on food grains, which are produced from rains. Rains are produced by performance of yajña [sacrifice], and yajña is born of prescribed duties.
 
 **Comment**: *The claim that sacrifice causes rain is a pre-scientific causal assertion that conflicts with meteorology. As It Is adds “prescribed duties” and “yajña” wording, but the causal chain is effectively the same as Besant.*
