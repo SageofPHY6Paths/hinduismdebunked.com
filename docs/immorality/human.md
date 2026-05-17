@@ -27,6 +27,7 @@ permalink: /immorality/cruelty/human/
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#31" target="_blank">Besant</a>: Looking to thine own duty thou shouldst not tremble, for there is no greater good for a Kshattriya than righteous war.
+
 > <a href="https://vedabase.io/en/library/bg/2/31/" target="_blank">As It Is</a>: Considering your specific duty as a kṣatriya, you should know that there is no better engagement for you than fighting on religious principles; and so there is no need for hesitation.
 
 **Comment**: *This verse moralizes war as sacred duty and pressures people to fight based on class duty rather than human empathy. Besant’s “righteous war” and As It Is “fighting on religious principles” differ in phrasing, but not in core meaning.*
@@ -36,6 +37,7 @@ Translations:
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#37" target="_blank">Besant</a>: Slain, thou gainest heaven; victorious, thou enjoyest the earth; therefore stand up, O son of Kuntî, resolved to fight.
+
 > <a href="https://vedabase.io/en/library/bg/2/37/" target="_blank">As It Is</a>: O son of Kuntī, either you will be killed on the battlefield and attain the heavenly planets, or you will conquer and enjoy the earthly kingdom. Therefore, get up and fight with determination.
 
 **Comment**: *It frames both killing and dying as desirable outcomes, which can normalize violence instead of minimizing harm.*
@@ -45,6 +47,7 @@ Translations:
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#38" target="_blank">Besant</a>: Holding pleasure and pain, gain and loss, victory and defeat as equal, then prepare for battle, and thus thou shalt not incur sin.
+
 > <a href="https://vedabase.io/en/library/bg/2/38/" target="_blank">As It Is</a>: Do thou fight for the sake of fighting, without considering happiness or distress, loss or gain, victory or defeat — and by so doing you shall never incur sin.
 
 **Comment**: *This attempts to remove moral guilt from warfare by changing mindset, which is ethically dangerous.*
