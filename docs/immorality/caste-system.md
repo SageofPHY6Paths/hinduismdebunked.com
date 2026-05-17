@@ -53,6 +53,14 @@ Translations:
 
 ## Bhagavad Gita
 
+### BG 3.35
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_3#35" target="_blank">Besant</a>: Better is one's own duty, though devoid of merit, than the duty of another well discharged. Better is death in one's own duty; the duty of another is full of danger.
+
+**Comment**: *This supports caste-bound duty by treating role-crossing as morally dangerous. It discourages freedom to choose work outside inherited social expectations.*
+
 ### BG 4.13
 {: .no_toc }
 >चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।<br>

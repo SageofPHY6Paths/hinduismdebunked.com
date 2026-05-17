@@ -23,6 +23,38 @@ permalink: /nonsense/logic/
 
 ## Bhagavad Gita
 
+### BG 2.12
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#12" target="_blank">Besant</a>: Nor at any time verily was I not, nor thou, nor these lords of men; nor verily shall we ever cease to be hereafter.
+
+**Comment**: *This claims eternal personal existence without evidence, making it a metaphysical assertion rather than a logical conclusion.*
+
+### BG 2.22
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#22" target="_blank">Besant</a>: As a man casteth off worn-out clothes and putteth on others that are new, so the embodied casteth off worn-out bodies and entereth into others that are new.
+
+**Comment**: *Rebirth is asserted as fact through analogy, but analogy is not proof.*
+
+### BG 2.23
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#23" target="_blank">Besant</a>: Weapons cleave him not, fire burneth him not, waters wet him not, wind drieth him not.
+
+**Comment**: *This describes an entity that is physically unaffected by all physical processes, which is not testable or evidenced.*
+
+### BG 3.14
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_3#14" target="_blank">Besant</a>: From food creatures come forth; from rain food is produced; from sacrifice ariseth rain; sacrifice is born of action.
+
+**Comment**: *The claim that sacrifice causes rain is a pre-scientific causal assertion that conflicts with meteorology.*
+
 ## Ramayana
 
 ## Mahabharata

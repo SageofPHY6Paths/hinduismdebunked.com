@@ -22,6 +22,30 @@ permalink: /immorality/cruelty/human/
 
 ## Bhagavad Gita
 
+### BG 2.31
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#31" target="_blank">Besant</a>: Looking to thine own duty thou shouldst not tremble, for there is no greater good for a Kshattriya than righteous war.
+
+**Comment**: *This verse moralizes war as sacred duty and pressures people to fight based on class duty rather than human empathy.*
+
+### BG 2.37
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#37" target="_blank">Besant</a>: Slain, thou gainest heaven; victorious, thou enjoyest the earth; therefore stand up, O son of Kuntî, resolved to fight.
+
+**Comment**: *It frames both killing and dying as desirable outcomes, which can normalize violence instead of minimizing harm.*
+
+### BG 2.38
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_2#38" target="_blank">Besant</a>: Holding pleasure and pain, gain and loss, victory and defeat as equal, then prepare for battle, and thus thou shalt not incur sin.
+
+**Comment**: *This attempts to remove moral guilt from warfare by changing mindset, which is ethically dangerous.*
+
 ## Ramayana
 
 ## Mahabharata
