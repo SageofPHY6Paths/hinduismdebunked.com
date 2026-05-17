@@ -10,7 +10,8 @@
 
 ## Bhagavad Gita citation notes
 
-- Current base text for new additions: Besant 4th edition on Wikisource.
+- For every new Bhagavad Gita citation, always add Besant 4th edition on Wikisource first.
+- After Besant, always add the "Bhagavad-gītā As It Is" version (this is required, not optional).
 - Add verses in relevant topical files/subsections (not as a single dump list).
 - Use this consistent entry structure:
   - Verse heading: `### BG X.Y`
@@ -19,3 +20,4 @@
   - `> <a href="...Discourse_N#Y" target="_blank">Besant</a>: [exact sentence(s)]`
   - `**Comment**: *1–2 lines on why immoral or nonsensical.*`
 - If strongly relevant to more than one topic, cite in both places.
+- If the quoted verse wording differs significantly from what is discussed in the commentary, prefer the more linguistically accurate rendering and briefly mention the variant.
