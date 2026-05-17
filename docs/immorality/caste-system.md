@@ -58,8 +58,9 @@ Translations:
 Translations:
 
 > <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_3#35" target="_blank">Besant</a>: Better is one's own duty, though devoid of merit, than the duty of another well discharged. Better is death in one's own duty; the duty of another is full of danger.
+> <a href="https://vedabase.io/en/library/bg/3/35/" target="_blank">As It Is</a>: It is far better to discharge one’s prescribed duties, even though faultily, than another’s duties perfectly. Destruction in the course of performing one’s own duty is better than engaging in another’s duties, for to follow another’s path is dangerous.
 
-**Comment**: *This supports caste-bound duty by treating role-crossing as morally dangerous. It discourages freedom to choose work outside inherited social expectations.*
+**Comment**: *This supports caste-bound duty by treating role-crossing as morally dangerous. It discourages freedom to choose work outside inherited social expectations. Besant and As It Is use different English style, but the core claim is linguistically the same: your own prescribed duty (svadharma) is better, and another’s duty is dangerous.*
 
 ### BG 4.13
 {: .no_toc }
