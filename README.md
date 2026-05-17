@@ -15,4 +15,4 @@
   - `> <a href="...Discourse_N#Y" target="_blank">Besant</a>: [exact sentence(s)]`
   - `**Comment**: *1–2 lines on why immoral or nonsensical.*`
 - If strongly relevant to more than one topic, cite in both places.
-- On caste pages, place the strongest casteist verse first rather than strict numeric order.
+- In every page and subsection (for all books), place the most immoral / most nonsensical and strongest verse first, rather than strict numeric order.
