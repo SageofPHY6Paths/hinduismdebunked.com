@@ -1,0 +1,29 @@
+// Backport useful Just the Docs enhancements without changing page content.
+
+.jtd-copy-code-button {
+  font-size: 0.75rem;
+  line-height: 1.2;
+}
+
+.callout {
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-left: 4px solid $blue-100;
+  background: $grey-lt-000;
+
+  &.callout-note {
+    border-left-color: $blue-100;
+  }
+
+  &.callout-warning {
+    border-left-color: $yellow-300;
+  }
+
+  &.callout-important {
+    border-left-color: $purple-100;
+  }
+
+  &.callout-danger {
+    border-left-color: $red-200;
+  }
+}

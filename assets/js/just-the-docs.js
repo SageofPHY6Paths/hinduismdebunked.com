@@ -68,6 +68,45 @@ function initNav() {
 {%- if site.search_enabled != false %}
 // Site search
 
+function initSearchKeyboardShortcut() {
+  var searchInput = document.getElementById('search-input');
+  if (!searchInput) return;
+  var shortcut = "{{ site.search_focus_shortcut_key | default: '/' }}";
+  jtd.addEvent(document, 'keydown', function(e) {
+    var targetTag = (e.target && e.target.tagName) ? e.target.tagName.toLowerCase() : '';
+    if (targetTag === 'input' || targetTag === 'textarea' || (e.target && e.target.isContentEditable)) return;
+    if (e.key === shortcut && !e.metaKey && !e.ctrlKey && !e.altKey) {
+      e.preventDefault();
+      searchInput.focus();
+    }
+  });
+}
+
+function initCodeCopyButtons() {
+  var blocks = document.querySelectorAll('div.highlighter-rouge pre.highlight, pre.highlight');
+  blocks.forEach(function(pre) {
+    if (pre.parentNode.querySelector('.jtd-copy-code-button')) return;
+    var button = document.createElement('button');
+    button.className = 'btn btn-outline jtd-copy-code-button';
+    button.type = 'button';
+    button.textContent = 'Copy';
+    button.addEventListener('click', function() {
+      var text = pre.innerText;
+      navigator.clipboard.writeText(text).then(function() {
+        button.textContent = 'Copied';
+        setTimeout(function(){ button.textContent = 'Copy'; }, 1200);
+      });
+    });
+    var wrapper = pre.parentNode;
+    wrapper.style.position = 'relative';
+    button.style.position = 'absolute';
+    button.style.top = '.5rem';
+    button.style.right = '.5rem';
+    wrapper.appendChild(button);
+  });
+}
+
+
 function initSearch() {
   var request = new XMLHttpRequest();
   request.open('GET', '{{ "assets/js/search-data.json" | absolute_url }}', true);
@@ -464,8 +503,10 @@ jtd.setTheme = function(theme) {
 
 jtd.onReady(function(){
   initNav();
+  initCodeCopyButtons();
   {%- if site.search_enabled != false %}
   initSearch();
+  initSearchKeyboardShortcut();
   {%- endif %}
   let userColorScheme = getCookie('user-colorscheme')
    if (userColorScheme == 'dark'){
