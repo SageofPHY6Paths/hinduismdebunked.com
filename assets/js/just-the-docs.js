@@ -488,13 +488,31 @@ function searchLoaded(index, docs) {
 // Switch theme
 
 jtd.getTheme = function() {
-  var cssFileHref = document.querySelector('[rel="stylesheet"]').getAttribute('href');
+  var cssFile = document.getElementById('jtd-theme-stylesheet') || document.querySelector('[rel="stylesheet"]');
+  var cssFileHref = cssFile.getAttribute('href');
   return cssFileHref.substring(cssFileHref.lastIndexOf('-') + 1, cssFileHref.length - 4);
 }
 
 jtd.setTheme = function(theme) {
-  var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '{{ "assets/css/just-the-docs-" | absolute_url }}' + theme + '.css');
+  var cssFile = document.getElementById('jtd-theme-stylesheet') || document.querySelector('[rel="stylesheet"]');
+  var nextHref = '{{ "assets/css/just-the-docs-" | absolute_url }}' + theme + '.css';
+
+  if (cssFile.getAttribute('href') === nextHref) {
+    setCookie('user-colorscheme',theme,365);
+    changeGiscusTheme(theme);
+    return;
+  }
+
+  var nextCssFile = cssFile.cloneNode();
+  nextCssFile.setAttribute('href', nextHref);
+  nextCssFile.setAttribute('id', 'jtd-theme-stylesheet-next');
+
+  nextCssFile.addEventListener('load', function() {
+    cssFile.remove();
+    nextCssFile.setAttribute('id', 'jtd-theme-stylesheet');
+  });
+
+  cssFile.parentNode.insertBefore(nextCssFile, cssFile.nextSibling);
   setCookie('user-colorscheme',theme,365);
   changeGiscusTheme(theme);
 }
