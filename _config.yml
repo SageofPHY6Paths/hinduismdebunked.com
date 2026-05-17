@@ -59,6 +59,13 @@ search:
   # Supports true or false (default)
   button: false
 
+
+# Search keyboard shortcut (added in newer Just the Docs releases)
+search_focus_shortcut_key: '/'
+
+# Make external links open in a new tab
+nav_external_links_new_tab: true
+
 # Enable or disable heading anchors
 heading_anchors: true
 
