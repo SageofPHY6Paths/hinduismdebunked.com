@@ -25,6 +25,30 @@ nav_order: 5
 
 ## Bhagavad Gita
 
+### BG 4.7-8
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#7" target="_blank">Besant</a>: Whenever there is decay of righteousness, O Bhârata, and there is exaltation of unrighteousness, then I Myself come forth; For the protection of the good, for the destruction of evil-doers, for the sake of firmly establishing righteousness, I am born from age to age.
+
+**Comment**: *This frames divine intervention as including the destruction of “evil-doers,” making religious disagreement easy to cast as something to be destroyed.*
+
+### BG 4.31
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#31" target="_blank">Besant</a>: The eaters of the life-giving remains of sacrifice go to the changeless Eternal. This world is not for the non-sacrificer, much less the other, O best of the Kurus.
+
+**Comment**: *This excludes non-sacrificers from both this world and the next, treating ritual participation as a condition for belonging.*
+
+### BG 4.40
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#40" target="_blank">Besant</a>: But the ignorant, faithless, doubting self goeth to destruction; nor this world, nor that beyond, nor happiness, is there for the doubting self.
+
+**Comment**: *This condemns doubt itself as destructive and happiness-denying, which is a classic intolerant move against questioning.*
+
 ### Bg. 7.15
 {: .no_toc }
 >न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: ।<br>

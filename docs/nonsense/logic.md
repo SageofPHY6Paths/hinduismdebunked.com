@@ -23,6 +23,46 @@ permalink: /nonsense/logic/
 
 ## Bhagavad Gita
 
+### BG 4.5-6
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#5" target="_blank">Besant</a>: Many births have been left behind by Me and by thee, O Arjuna. I know them all, but thou knowest not thine, O Parantapa. Though unborn, the imperishable Self, and also the Lord of all beings, brooding over nature which is Mine own, yet I am born through My own Power.
+
+**Comment**: *This claims Krishna remembers many past births, then says he is unborn while still being born through his own power.*
+
+### BG 6.41-45
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_6#41" target="_blank">Besant</a>: Having attained to the worlds of the pure-doing, and having dwelt there for immemorial years, he who fell from yoga is reborn in a pure and blessed house; Or he may even be born into a family of wise Yogîs; but such a birth as that is most difficult to obtain in this world. There he recovereth the characteristics belonging to this former body, and with these he again laboureth for perfection, O joy of the Kurus. By that former practice he is irresistibly swept away. Only wishing to know yoga, even the seeker after yoga goeth beyond the Brâhmic world; But the Yogî, labouring with assiduity, purified from sin, fully perfected through manifold births, he reacheth the supreme goal.
+
+**Comment**: *This presents rebirth, stored traits from a former body, and spiritual progress across many lives as fact without evidence.*
+
+### BG 5.13-15
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_5#13" target="_blank">Besant</a>: Mentally renouncing all actions, the sovereign dweller in the body resteth serenely in the nine-gated city, neither acting nor causing to act. The Lord of the world produceth not the idea of agency, nor actions, nor the union together of action and its fruit; nature, however, manifesteth. The Lord accepteth neither the evil-doing nor yet the well-doing of any. Wisdom is enveloped by unwisdom; therewith mortals are deluded.
+
+**Comment**: *This denies ordinary agency by saying the embodied person does not act or cause action, while shifting action onto “nature.”*
+
+### BG 5.8-9
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_5#8" target="_blank">Besant</a>: "I do not anything," should think the harmonised one, who knoweth the essence of things; seeing, hearing, touching, smelling, eating, moving, sleeping, breathing. Speaking, giving, grasping, opening and closing the eyes, he holdeth: "The senses move among the objects of the senses."
+
+**Comment**: *It treats ordinary actions like eating, moving, and speaking as things the person is not really doing.*
+
+### BG 4.18
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#18" target="_blank">Besant</a>: He who seeth inaction in action, and action in inaction, he is wise among men, he is harmonious, even while performing all action.
+
+**Comment**: *This is mystical wordplay: “inaction in action” and “action in inaction” are asserted as wisdom rather than explained as a coherent claim.*
+
 ### BG 2.12
 {: .no_toc }
 Translations:

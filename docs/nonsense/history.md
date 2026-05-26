@@ -23,6 +23,14 @@ permalink: /nonsense/history/
 
 ## Bhagavad Gita
 
+### BG 4.1-2
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#1" target="_blank">Besant</a>: This imperishable yoga I declared to Vivasvan; Vivasvan taught it to Manu; Manu to Ikshvaku told it. This, handed on down the line, the King-Sages knew. This yoga by great efflux of time decayed in the world, O Parantapa.
+
+**Comment**: *This turns a religious teaching into a mythic ancient history involving Vivasvan, Manu, and Ikshvaku, without historical evidence.*
+
 ## Ramayana
 ### Ramayana Balakanda sarga 1 shloka 97
 {: .no_toc }

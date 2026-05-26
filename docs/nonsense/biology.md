@@ -23,6 +23,30 @@ permalink: /nonsense/biology/
 
 ## Bhagavad Gita
 
+### BG 6.13-17
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_6#13" target="_blank">Besant</a>: Holding the body, head and neck erect, immovably steady, looking fixedly at the point of the nose, with unseeing gaze, The self serene, fearless, firm in the vow of the Brahmachâri, the mind controlled, thinking on Me, harmonised, let him sit aspiring after Me. The Yogî ever united thus with the Self, with the mind controlled, goeth to Peace, to the supreme Bliss that abideth in Me. Verily yoga is not for him who eateth too much, nor who abstaineth to excess, nor who is too much addicted to sleep, nor even to wakefulness, O Arjuna. Yoga killeth out all pain for him who is regulated in eating and amusement, regulated in performing actions, regulated in sleeping and waking.
+
+**Comment**: *This makes sweeping claims about posture, nose-gazing, celibacy, diet, sleep, and yoga killing pain, without biological evidence.*
+
+### BG 5.27-28
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_5#27" target="_blank">Besant</a>: Having external contacts excluded, and with gaze fixed between the eyebrows; having made equal the outgoing and ingoing breaths moving within the nostrils; With senses, mind, and Reason ever controlled, solely pursuing liberation, the Sage, having for ever cast away desire, fear and passion, verily is liberated.
+
+**Comment**: *It treats eyebrow-gazing and breath control as a path to liberation, which is a physiological claim dressed as spiritual certainty.*
+
+### BG 4.29-30
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#29" target="_blank">Besant</a>: Yet others pour as sacrifice the outgoing breath in the incoming, and the incoming in the outgoing, restraining the flow of the outgoing and incoming breaths, solely absorbed in the control of breathing. Others regular in food, pour as sacrifice their life-breaths in life-breaths. All these are knowers of sacrifice, and by sacrifice have destroyed their sins.
+
+**Comment**: *This presents breath manipulation and regulated eating as sacrifice that destroys sins, which is not a biological mechanism.*
+
 ## Ramayana
 ### Ramayana Balakanda sarga 1 shloka 97
 {: .no_toc }
