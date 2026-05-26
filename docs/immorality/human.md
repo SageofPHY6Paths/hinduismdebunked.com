@@ -22,6 +22,14 @@ permalink: /immorality/cruelty/human/
 
 ## Bhagavad Gita
 
+### BG 4.7-8
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#7" target="_blank">Besant</a>: Whenever there is decay of righteousness, O Bhârata, and there is exaltation of unrighteousness, then I Myself come forth; For the protection of the good, for the destruction of evil-doers, for the sake of firmly establishing righteousness, I am born from age to age.
+
+**Comment**: *This makes destruction of “evil-doers” part of divine mission, which can sanctify violence when opponents are labeled evil.*
+
 ### BG 2.31
 {: .no_toc }
 Translations:

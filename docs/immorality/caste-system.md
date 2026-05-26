@@ -10,7 +10,7 @@ permalink: /immorality/caste-system/
 {: .no_toc }
 Caste system is like the Indian version of racism. If you thought the colour of your skin is a very random parameter to determine your worth, you will be shocked because the Indian caste system is even more arbitrary.
 
-**Worst verses**: [MB 13.135](#mb-13135), [MP Part II CCXXVII.131](#part-ii-ccxxvii131), [SB 7.11.15](#sb-71115), [SB 6.18.49](#sb-61849), [BP 115.24](#bp-11524), [BG 18.47](#bg-1847)
+**Worst verses**: [MB 13.135](#mb-13135), [MP Part II CCXXVII.131](#part-ii-ccxxvii131), [SB 7.11.15](#sb-71115), [SB 6.18.49](#sb-61849), [BP 115.24](#bp-11524), [BG 4.13](#bg-413), [BG 18.47](#bg-1847)
 
 <details open markdown="block">
   <summary>
@@ -53,6 +53,27 @@ Translations:
 
 ## Bhagavad Gita
 
+### BG 4.13
+{: .no_toc }
+>चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।<br>
+तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥ १३ ॥
+
+Translations:
+
+><a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4#13" target="_blank">Besant</a>: The four castes were emanated by Me, by the different distribution of qualities and actions; know Me to be the author of them, though the actionless and inexhaustible.
+
+><a href="https://vedabase.io/en/library/bg/4/13/" target="_blank">As It Is</a>: According to the three modes of material nature and the work associated with them, the four divisions of human society are created by Me. And although I am the creator of this system, you should know that I am yet the nondoer, being unchangeable.
+
+**Comment**: *It is not at all surprising that whoever wrote these things kept their own division at the top. These type of arrogance by the makers of religions is common in religions. For example <a href="https://en.wikipedia.org/wiki/Jews_as_the_chosen_people" target="_blank">Jews think they are the chosen people</a>.*
+
+### BG 5.18
+{: .no_toc }
+Translations:
+
+> <a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_5#18" target="_blank">Besant</a>: Sages look equally on a Brâhmana adorned with learning and humility, a cow, an elephant, and even a dog and an outcaste.
+
+**Comment**: *Even while praising equal vision, this verse normalizes caste and outcaste categories, and places an outcaste in the same comparison list as animals.*
+
 ### BG 3.35
 {: .no_toc }
 Translations:
@@ -62,19 +83,6 @@ Translations:
 > <a href="https://vedabase.io/en/library/bg/3/35/" target="_blank">As It Is</a>: It is far better to discharge one’s prescribed duties, even though faultily, than another’s duties perfectly. Destruction in the course of performing one’s own duty is better than engaging in another’s duties, for to follow another’s path is dangerous.
 
 **Comment**: *This supports caste-bound duty by treating role-crossing as morally dangerous. It discourages freedom to choose work outside inherited social expectations. Besant and As It Is use different English style, but the core claim is linguistically the same: your own prescribed duty (svadharma) is better, and another’s duty is dangerous.*
-
-### BG 4.13
-{: .no_toc }
->चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।<br>
-तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥ १३ ॥
-
-Translations:
-
-><a href="https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)/Discourse_4" target="_blank">Besant</a>: The four castes were emanated by Me, by the different distribution of qualities and actions; know Me to be the author of them, though the actionless and inexhaustible.
-
-><a href="https://vedabase.io/en/library/bg/4/13/" target="_blank">As It Is</a>: According to the three modes of material nature and the work associated with them, the four divisions of human society are created by Me. And although I am the creator of this system, you should know that I am yet the nondoer, being unchangeable.
-
-**Comment**: *It is not at all surprising that whoever wrote these things kept their own division at the top. These type of arrogance by the makers of religions is common in religions. For example <a href="https://en.wikipedia.org/wiki/Jews_as_the_chosen_people" target="_blank">Jews think they are the chosen people</a>.*
 
 ### BG 18.47
 {: .no_toc }
